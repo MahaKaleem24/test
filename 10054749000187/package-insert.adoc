@@ -1,0 +1,404 @@
+= i-STAT® cTnI Cartridge — Cartridge and Test Information (CTI) / Instructions for Use
+:device-primary-di: 10054749000187
+:document-type: Package Insert
+:source-date: 2026-09-08
+:toc: left
+:toclevels: 2
+
+Art: 715595-00V, Rev. Date: 23-APR-18
+
+== Intended Use
+
+The i-STAT® cardiac troponin I (cTnI) test is an in vitro diagnostic test
+for the quantitative measurement of cardiac troponin I (cTnI) in whole
+blood or plasma. Measurements of cardiac troponin I are used in the
+diagnosis and treatment of myocardial infarction and as an aid in the risk
+stratification of patients with acute coronary syndromes with respect to
+their relative risk of mortality.
+
+== Method Explanation
+
+The i-STAT cTnI test cartridge uses a two-site enzyme-linked
+immunosorbant assay (ELISA) method. Antibodies specific for human cardiac
+troponin I (cTnI) are located on an electrochemical sensor fabricated on a
+silicon chip. Also deposited in another location on the sensor silicon
+chip is an antibody/alkaline phosphatase enzyme conjugate specific to a
+separate portion of the cTnI molecule. The whole blood or plasma sample is
+brought into contact with the sensors allowing the enzyme conjugate to
+dissolve into the sample. The cTnI within the sample becomes labeled with
+alkaline phosphatase and is captured onto the surface of the
+electrochemical sensor during an incubation period of approximately seven
+minutes. The sample, as well as excess enzyme conjugate, is washed off the
+sensors. Within the wash fluid is a substrate for the alkaline phosphatase
+enzyme. The enzyme bound to the antibody/antigen/antibody sandwich cleaves
+the substrate releasing an electrochemically detectable product. The
+electrochemical (amperometric) sensor measures this enzyme product which
+is proportional to the concentration of cTnI within the sample.
+
+== Contents
+
+Each i-STAT cTnI cartridge provides a sample inlet, sensors to detect the
+cTnI as described above, and all the necessary reagents needed to perform
+the test. The cartridge contains a buffer and preservatives.
+
+.Reactive Ingredients
+[cols="2,2,1", options="header"]
+|===
+| Reactive Ingredient | Biological Source | Minimum Quantity
+| Antibody/Alkaline Phosphatase Conjugate | Caprine IgG : Bovine Intestine | 0.003 µg
+| IgG | Caprine IgG : Murine IgG | 8 µg : 8 µg
+| Sodium Aminophenyl Phosphate | N/A | 0.9 mg
+| Heparin | Porcine Intestine | 0.45 IU
+| IgM | Murine IgM | 0.3 µg
+|===
+
+== Metrological Traceability
+
+The i-STAT System test for cardiac troponin-I (cTnI) measures cardiac
+troponin-I amount-of-substance concentration in plasma or the plasma
+fraction of whole blood (dimension ng mL-1) for in vitro diagnostic use.
+Cardiac troponin-I values assigned to i-STAT's controls and calibration
+verification materials are traceable to i-STAT's working calibrator
+prepared from human cardiac troponin-ITC complex (Hy-Test Ltd., Turku,
+Finland, catalogue #8T62). i-STAT System controls and calibration
+verification materials are validated for use only with the i-STAT System
+and assigned values may not be commutable with other methods. Further
+information regarding metrological traceability is available from Abbott
+Point of Care Inc.
+
+== Reportable Range
+
+The i-STAT cTnI test will report 0.00 to 50.00 ng/mL (µg/L). Samples above
+the reportable range will yield ">50.00 ng/mL" on the analyzer display
+screen. However, the performance characteristics of the i-STAT cTnI
+measurement have not been established for cTnI values above 35.00 ng/mL
+(µg/L).
+
+== Reference Range
+
+Whole blood and plasma samples from 162 apparently healthy donors were
+assayed in duplicate using three different lots of i-STAT cTnI cartridges.
+The 0 to 97.5% range of results spanned 0.00 ng/mL (µg/L) to 0.03 ng/mL
+(µg/L). The 0 to 99% range of results spanned 0.00 ng/mL (µg/L) to 0.08
+ng/mL (µg/L).
+
+NOTE: Each facility should establish its own reference range using the
+i-STAT cTnI assay.
+
+== Clinical Significance
+
+Biochemical cardiac markers, including cTnI, are useful for both the
+diagnosis of myocardial infarction and the risk stratification that can
+help guide the choice of therapeutic options.
+
+For optimal diagnostic usefulness, a cardiac marker should be specific for
+cardiac tissue, should be rapidly released into the bloodstream with a
+direct proportional relationship between the extent of myocardial injury
+and the measured level of the marker, and should persist in blood for a
+sufficient length of time to provide a convenient diagnostic time
+window.footnote:[Braunwald E, et al. ACC/AHA 2002 guideline update for the
+management of patients with unstable angina and non-ST-segment elevation
+myocardial infarction. 2002.] The cardiac-specific troponins, troponin I
+(cTnI) and troponin T (cTnT) are considered the biochemical markers of
+choice in the evaluation of acute coronary syndromes (ACS) including
+ST-elevation myocardial infarction, non-ST-elevation myocardial
+infarction, and unstable
+angina.footnote:[Thygesen K, Alpert JS, White HD, et al. Universal
+definition of myocardial infarction. Circulation. 2007;116:2634-2653.]
+Elevated levels of cardiac-specific troponins convey prognostic
+information beyond that supplied by the patient's clinical signs and
+symptoms, the ECG at presentation, and the pre-discharge exercise test.
+Antman et al. reported that patients with elevated levels of cTnI had a
+statistically significant increase in mortality (p<0.001). Other studies
+have shown increases in other non-fatal cardiac events such as non-fatal
+MI, congestive heart failure, and urgent revascularization with
+increasing levels of cTnI.
+
+The ability for cTnI to be measured at low concentrations allows
+therapeutic intervention to be considered at any elevation above the
+normal range. Patients that present with no ST-elevation on their ECG but
+who have even slight elevation in cTnI or cTnT may receive a greater
+treatment benefit from certain drugs such as GP IIb/IIIa inhibitors or low
+molecular weight heparin.
+
+A Global Task Force with joint leadership from the European Society of
+Cardiology (ESC), the American College of Cardiology Foundation (ACCF),
+the American Heart Association (AHA) and the World Heart Federation (WHF)
+refined past criteria of myocardial infarction with a universal
+definition of myocardial infarction that supports the use of cTnI as a
+preferred biomarker for myocardial injury. The universal definition of MI
+according to this task force is defined as a typical rise and gradual
+fall of cardiac biomarkers (preferably troponin) with at least one value
+above the 99th percentile of the upper reference limit (URL) together
+with evidence of myocardial ischemia with at least one of the following:
+ischemic symptoms, pathological Q waves on electrocardiogram (ECG),
+ischemic ECG changes, or imaging evidence of new loss of viable
+myocardium or new regional wall motion abnormality. An elevated troponin
+value alone is not sufficient to diagnose a myocardial infarction. Rather,
+the patient's clinical presentation (history, physical exam) and ECG
+should be used in conjunction with troponin in the diagnostic evaluation
+of suspected myocardial infarction. A serial sampling protocol is
+recommended to facilitate the identification of temporal changes in
+troponin levels characteristic of MI.
+
+Since cTnI is not unequivocally detectable by commercial assays in
+samples from healthy persons, measurements beyond the upper limit of the
+reference range have a significant probability of being associated with
+ischemia or necrosis; this probability increases with the measured
+troponin concentration. Nonetheless, by definition, results beyond the
+reference range will occur in a normal population in healthy individuals
+in the absence of myocardial necrosis, i.e., a result beyond the 99th
+percentile does not confirm the presence of troponin with absolute
+certainty. Each institution should determine the reference range and
+decision levels appropriate to its specific patient population and
+clinical practice.
+
+Acute myocardial injury is evidenced by temporal changes in troponin
+levels while consistent elevations of troponin may be suggestive of other
+chronic cardiac or non-cardiac conditions. There are many clinical
+conditions that can lead to an elevated troponin level without ischemic
+coronary artery disease, such as blunt trauma, myocarditis, congestive
+heart failure, and left ventricular hypertrophy. These clinical
+conditions should be considered when interpreting results. The use of
+serial sampling with a consistent troponin methodology can identify
+temporal troponin changes, as well as provide additional information that
+can assist in the clinical diagnosis for those patients with low-level
+results. Where there are inconsistencies in the clinical information or
+where diagnostic criteria are not fully satisfied, the possibility of
+biased results should be recognized — see Test Limitations.
+
+== Performance Characteristics
+
+Precision data were collected in multiple sites as follows: Duplicates of
+each control were tested daily for a period of 20 days, resulting in a
+total of 40 replicates. The average statistics are presented below.
+
+Method comparison data were collected using CLSI guideline EP9-A2. Venous
+blood samples were collected in heparinized evacuated tubes and analyzed
+in duplicate on the i-STAT System. A portion of the specimen was
+centrifuged and the separated plasma was analyzed in duplicate on the
+comparative method within 1 hour of collection.
+
+Deming regression analysis was performed on the first replicate of each
+sample. In the method comparison table, n is the number of specimens in
+the first data set, Sxx and Syy refer to estimates of imprecision based on
+the duplicates of the comparative and the i-STAT methods respectively.
+Sy.x is the standard error of the estimate, and r is the correlation
+coefficient.
+
+Method comparisons will vary from site to site due to differences in
+sample handling, comparative method calibration and other site specific
+variables.
+
+Interference studies were based on CLSI guideline EP7.
+
+.Precision Data (ng/mL)
+[cols="1,1,1,1", options="header"]
+|===
+| Control | Mean | SD | %CV
+| Level 1 | 0.53 | 0.04 | 7.8
+| Level 2 | 2.17 | 0.18 | 8.5
+| Level 3 | 31.82 | 2.42 | 7.6
+|===
+
+.Method Comparison (ng/mL) — vs. Dade Behring Stratus® CS
+[cols="1,1", options="header"]
+|===
+| Statistic | Value
+| n | 189
+| Sxx | 0.28
+| Syy | 0.31
+| Slope | 0.883
+| Intercept | 0.029
+| Sy.x | 1.40
+| Xmin | 0.00
+| Xmax | 46.27
+| r | 0.975
+|===
+
+NOTE: For any analyte, if the data is a narrow range, the estimate of the
+regression parameters are relatively imprecise and may be biased.
+Predictions made from estimates may be invalid. The correlation
+coefficient, r, can be used as a guide to assess the adequacy of the
+comparative method range in overcoming the problem — the range of data
+can be considered adequate if r>0.975.
+
+== Analytical and Functional Sensitivities
+
+The analytical sensitivity of the cTnI method is 0.02 ng/mL, which is the
+lowest cTnI level that can be distinguished from zero. The analytical
+sensitivity is defined as the concentration at two standard deviations
+from a sample at 0.00 ng/mL.
+
+Another characteristic of an analytical measurement is the functional
+sensitivity, which is defined as the cTnI level at which the test method
+displays a particular percent coefficient of variation (%CV). Estimates
+of the 20% and 10% functional sensitivity for the cTnI method were
+determined from whole blood measurements. The 20% and 10% functional
+sensitivities for the cTnI method are 0.07 ng/mL and 0.10 ng/mL,
+respectively.
+
+== Analytical Specificity
+
+The cTnI method is specific for cardiac troponin I. The following muscle
+proteins were tested and found to have an insignificant effect on the
+measured cTnI.
+
+[cols="2,1,1", options="header"]
+|===
+| Crossreactant | Concentration | Percent Crossreactivity
+| Troponin C (cardiac) | 1000 ng/mL | <0.002%
+| Troponin T (cardiac) | 1000 ng/mL | 0.65%
+| Troponin I (skeletal) | 1000 ng/mL | <0.002%
+| Troponin T (skeletal) | 1000 ng/mL | <0.002%
+|===
+
+== Recovery
+
+The dilution linearity of the i-STAT cTnI test was investigated using
+heparinized whole blood and plasma samples derived from 3 separate
+donors. For each donor, the original cTnI negative sample and a cTnI
+spiked sample were prepared. This process yielded three cTnI positive
+whole blood samples that were then assayed in duplicate for each of three
+separate i-STAT cTnI cartridge lots. These whole blood samples were then
+diluted using an equal mass of the original unspiked whole blood and
+assayed in duplicate. From this whole blood data, the cTnI recovery was
+calculated.
+
+The plasma derived from these three donors was combined in equal masses
+and all pairwise combinations. These combinations were then assayed in
+duplicate for each of three separate i-STAT cTnI cartridge lots. The cTnI
+recovery for each pair was calculated using the average of the 6 results.
+
+.Whole Blood Recovery
+[cols="1,1,1,1", options="header"]
+|===
+| Sample | Concentration | Diluted Concentration | % Recovery
+| A | 2.05 | 1.04 | 101%
+| B | 6.31 | 3.14 | 100%
+| C | 27.04 | 14.05 | 104%
+|===
+
+.Plasma Recovery
+[cols="1,1,1,1", options="header"]
+|===
+| Sample | Concentration | Diluted Concentration | % Recovery
+| A | 2.41 | ----- | -----
+| B | 7.50 | ----- | -----
+| C | 29.35 | ----- | -----
+| A+B | ----- | 4.69 | 95%
+| B+C | ----- | 18.90 | 103%
+| A+C | ----- | 16.89 | 106%
+|===
+
+== Test Limitations
+
+WARNING: Medical decisions should not be based on a single i-STAT
+measurement.
+
+* The frequency of suppressed results is affected by atmospheric
+  pressure. Suppressed result rates may increase with higher elevations
+  (decreased barometric pressure) and may become persistent if testing is
+  performed at more than 7500 feet above sea level. Where unavailability
+  of results is unacceptable, i-STAT recommends having an alternate test
+  method available.
+* Samples from patients who have been exposed to animals or who have
+  received therapeutic or diagnostic procedures employing
+  immunoglobulins or reagents derived from immunoglobulins may contain
+  antibodies, e.g., HAMA or other heterophile antibodies, which may
+  interfere with immunoassays and produce erroneous results. While this
+  product contains reagents that minimize the effect of these
+  interferents and QC algorithms designed to detect their effects, the
+  possibility of interference causing erroneous results should be
+  evaluated carefully in cases where there are inconsistencies in the
+  clinical information.
+* Cardiac troponin may not appear in circulation for 4-6 hours following
+  the onset of symptoms of MI. Consequently, a single negative result is
+  insufficient to rule out MI. The use of a serial sampling protocol is
+  recommended practice.
+* The results of different troponin assays are not generally comparable:
+  cTnI and cTnT are distinct molecules and results are not
+  interchangeable, nor comparable. In addition, significant variation in
+  absolute troponin values may be observed for a given patient specimen
+  with different analytic methods.
+* Partially clotted samples can result in elevated cTnI results above the
+  reference range, as well as quality check code errors. To prevent this
+  from occurring, upon drawing the whole blood sample into a heparinized
+  collection tube, the sample should be inverted gently at least 10 times
+  to ensure even dissolution of the heparin anticoagulant.
+* Grossly hemolyzed samples can cause a decreased alkaline phosphatase
+  activity, resulting in decreased detection of cTnI, increased assay
+  backgrounds, and/or quality check codes.
+* Hematocrits in the range of 0-65% PCV have been demonstrated not to
+  affect results. Samples with hematocrit levels above this range have
+  demonstrated increases in the test imprecision and quality check codes.
+* The analyzer must remain on a level surface with the display facing up
+  during testing. Motion of the analyzer during testing can increase the
+  frequency of suppressed results or quality check codes. A level surface
+  includes running the handheld in the downloader/recharger.
+
+== Interference Testing
+
+The following substances were found to have no significant effect (less
+than 10%) on the cTnI method, when added to a plasma pool containing
+approximately 2 ng/mL of cardiac troponin I, at the concentrations
+indicated:
+
+[cols="2,1", options="header"]
+|===
+| Compound | Test Level (µmol/L unless otherwise indicated)
+| Acetaminophen | 1660
+| Allopurinol | 294
+| Ascorbic Acid | 227
+| Acetyl Salicylic Acid | 3330
+| Atenolol | 37.6
+| Caffeine | 308
+| Captopril | 23
+| Chloramphenicol | 155
+| Diclofenac | 169
+| Digoxin | 6.15
+| Dopamine | 5.87
+| Enalaprilat | 0.86
+| Erythromycin | 81.6
+| Furosemide | 181
+| Sodium Heparin | 36 U/mL
+| Ibuprofen | 2425
+| Isosorbide dinitrate | 636
+| Methyldopa | 71
+| Nicotine | 6.2
+| Nifedipine | 1.156
+| Phenytoin | 198
+| Propranolol | 7.71
+| Salicylic Acid | 4340
+| Theophylline | 222
+| Verapamil | 4.4
+| Warfarin | 64.9
+|===
+
+NOTE: Heparin at 90 U/mL was found to decrease the cTnI level by
+approximately 20%.
+
+== Manufacturer
+
+Abbott Point of Care Inc. +
+Abbott Park, IL 60064 • USA
+
+Emergo Europe +
+Prinsessegracht 20 +
+2514 AP The Hague +
+The Netherlands
+
+i-STAT is a registered trademark of the Abbott Group of Companies in
+various jurisdictions.
+
+[NOTE]
+====
+Source: Abbott Point of Care i-STAT Cardiac Troponin I (cTnI) Cartridge
+and Test Information (CTI) sheet, Art. 715595-00V, Rev. Date 23-APR-18
+(https://www.globalpointofcare.abbott/content/dam/ardx/globalpointofcare/apoc/support/i-stat-1/cti-ifu/english-us/cti/715595-00V.pdf).
+Retrieved 2026-09-08. This is manufacturer-published product labeling,
+reproduced here for internal DeX record population; not a U.S. federal
+government work. Numbered literature references in the original CTI sheet
+have been omitted/summarized inline rather than reproduced as a full
+bibliography.
+====

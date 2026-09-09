@@ -1,0 +1,142 @@
+= i-STAT® cTnI Cartridge — GUDID Device Record
+:device-primary-di: 10054749000187
+:document-type: GUDID
+:source-date: 2026-09-08
+:toc: left
+
+== Device Identifier (DI) Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Brand Name | i-STAT
+| Version or Model | 03P90-25
+| Catalog Number | 03P90-25
+| Commercial Distribution Status | In Commercial Distribution
+| Company Name | ABBOTT POINT OF CARE INC.
+| Primary DI Number | 10054749000187
+| Issuing Agency | GS1
+| Device Count | 1
+| Labeler D-U-N-S® Number | 079226216
+| Device Description | TROPONIN CARTRIDGE
+|===
+
+== Device Characteristics
+
+[cols="2,1", options="header"]
+|===
+| Characteristic | Value
+| MRI safety information in labeling | Labeling does not contain MRI Safety Information
+| Required to be labeled as containing natural rubber latex or dry natural rubber (21 CFR 801.437) | Yes
+| Labeled as "Not made with natural rubber latex" | No
+| For Single-Use | Yes
+| Prescription Use (Rx) | No
+| Over the Counter (OTC) | No
+| Kit | No
+| Combination Product | No
+| Human Cell, Tissue or Cellular or Tissue-Based Product (HCT/P) | No
+|===
+
+== GMDN
+
+[cols="1,2,3,1,1", options="header"]
+|===
+| GMDN Term Code | GMDN Term Name | GMDN Term Definition | GMDN Term Status | Implantable?
+| 54013 | Troponin I IVD, reagent | A substance or reactant intended to be used together with a parent IVD to perform a specific function in an assay that is used for the qualitative and/or quantitative detection of troponin I in a clinical specimen. | Active | false
+|===
+
+== FDA Product Code
+
+[cols="1,3", options="header"]
+|===
+| Product Code | Product Code Name
+| MMI | IMMUNOASSAY METHOD, TROPONIN SUBUNIT
+|===
+
+== FDA Premarket Submission
+
+[cols="1,1", options="header"]
+|===
+| FDA Premarket Submission Number | Supplement Number
+| K031739 | 000
+|===
+
+Device Exempt from Premarket Submission: No
+
+== Sterilization
+
+Device Packaged as Sterile: No +
+Requires Sterilization Prior to Use: No +
+Sterilization Method: No Sterilization Methods Found
+
+== Storage and Handling
+
+[cols="1,2", options="header"]
+|===
+| Condition | Value
+| Handling Environment Temperature | between 2 and 8 Degrees Celsius
+| Storage Environment Temperature | between 2 and 8 Degrees Celsius
+|===
+
+== Clinically Relevant Size
+
+No Device Sizes
+
+== Device Record Status
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Public Device Record Key | 26096d4f-7a43-4338-90ee-5fe7b9d3a3d8
+| Public Version Date | May 23, 2024
+| Public Version Number | 4
+| DI Record Publish Date | September 09, 2016
+|===
+
+== Package DI
+
+[cols="1,1,1,1,1", options="header"]
+|===
+| Package DI Number | Quantity per Package | Contains DI Package | Package Status | Package Type
+| 00054749000180 | 25 | 10054749000187 | In Commercial Distribution | Case
+|===
+
+== Secondary DI
+
+No Secondary DIs found.
+
+== Unit of Use DI
+
+No Unit of Use DI Numbers Found.
+
+== Direct Marking (DM)
+
+Device Subject to Direct Marking (DM), but Excepted: No +
+DM DI Different from Primary DI: No +
+DM DI Number: None
+
+== Production Identifier(s) in UDI
+
+[cols="1,1", options="header"]
+|===
+| Identifier | Present in UDI
+| Lot or Batch Number | Yes
+| Serial Number | No
+| Expiration Date | Yes
+| Manufacturing Date | No
+| Donation Identification Number | No
+|===
+
+== Customer Contact
+
+Phone: +1(800)366-8020 +
+Email: techsvc@apoc.abbott.com
+
+[NOTE]
+====
+Source: AccessGUDID device record for Primary DI 10054749000187
+(https://accessgudid.nlm.nih.gov/devices/10054749000187), a U.S. federal
+government (NLM/FDA) database entry. Retrieved 2026-09-08. GMDN terms are
+reproduced under license from the GMDN Agency per AccessGUDID's terms of
+use.
+====
