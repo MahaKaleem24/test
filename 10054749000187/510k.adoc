@@ -1,0 +1,411 @@
+= i-STAT® cTnI Test — 510(k) Substantial Equivalence Determination Decision Summary
+:device-primary-di: 10054749000187
+:document-type: 510k
+:source-date: 2026-09-08
+:toc: left
+:toclevels: 2
+:sectnums:
+
+== A. 510(k) Number
+
+K031739
+
+== B. Analyte
+
+Troponin I
+
+== C. Type of Test
+
+Electrochemical two site ELISA
+
+== D. Applicant
+
+i-STAT Corporation
+
+== E. Proprietary and Established Names
+
+i-STAT® cTnI Test
+
+== F. Regulatory Information
+
+. Regulation section: 21 CFR §862.1215
+. Classification: Class II
+. Product Code: MMI
+. Panel: Chemistry (75)
+
+== G. Intended Use
+
+=== 1. Intended use(s)
+
+The i-STAT® cTnI Test is an in vitro diagnostic test for the quantitative
+measurement of cardiac troponin I in heparinized whole blood or plasma
+samples. Cardiac troponin I measurements can be used as an aid in the
+diagnosis and treatment of myocardial infarction and in the risk
+stratification of patients with acute coronary syndromes with respect to
+their relative risk of mortality.
+
+The cartridge is to be used with the i-STAT 1 Analyzer, but not the i-STAT
+Portable Clinical Analyzer or the Philips Medical Systems (formerly Agilent
+Technologies) Blood Analysis Module (BAM). As part of the i-STAT System, the
+cTnI test is to be used by trained health care professionals in accordance
+with a facility's policies and procedures.
+
+=== 2. Indication(s) for use
+
+The i-STAT Cardiac Troponin I (cTnI) test is an in vitro diagnostic test for
+the quantitative measurement of cardiac troponin I in heparinized whole
+blood or plasma. Measurements of cardiac Troponin I are used in the
+diagnosis and treatment of myocardial infarction and as an aid in the risk
+stratification of patients with acute coronary syndromes with respect to
+their relative risk of mortality.
+
+=== 3. Special condition for use statement(s)
+
+None stated.
+
+=== 4. Special instrument requirements
+
+i-STAT 1 Analyzer
+
+== H. Device Description
+
+The i-STAT cTnI is contained in a single cartridge. In use, the user scans a
+barcode and then places approximately 16 microliters of fresh whole blood in
+the cartridge. The cartridge is inserted into the thermally controlled
+i-STAT 1 Analyzer, and all analytical steps are performed automatically.
+Patient and user information may be entered into the analyzer via a keypad
+during the automated analysis cycle. The cTnI test cartridge is assembled
+from plastic components that provide the conduits for fluid handling and
+house the sensor chips and heating elements necessary for temperature
+control and signal measurement.
+
+Upon insertion of the cartridge into the analyzer, it performs several
+quality checks. The sample and enzyme-linked antibody conjugate are
+incubated for a predetermined period of time under temperature control. The
+sample is discarded and the substrate/wash solution is brought over the
+alkaline phosphatase captured on the cTnI sensor. The enzyme cleaves the
+substrate giving rise to an amperometric signal which the analyzer measures.
+The result is displayed and stored in memory for possible transfer via
+infra red to a printer or to electronic databases.
+
+== I. Substantial Equivalence Information
+
+=== 1. Predicate device name(s)
+
+Dade Behring Stratus® CS Cardiac Troponin I TestPak
+
+=== 2. Predicate K number(s)
+
+K981098
+
+=== 3. Comparison with predicate
+
+.Similarities
+[cols="1,1,1", options="header"]
+|===
+| Item | Device | Predicate
+| Assay Methodology | Two Site ELISA | Two Site ELISA
+| Capture antibodies | Monoclonal | Monoclonal
+| Enzyme label | Alkaline Phosphatase | Alkaline Phosphatase
+|===
+
+.Differences
+[cols="1,1,1", options="header"]
+|===
+| Item | Device | Predicate
+| Enzyme detection | Electrochemical | Fluorescent
+| Sample type | Whole blood or Plasma | Plasma
+| Enzyme label antibody | Polyclonal | Monoclonal
+|===
+
+== J. Standard/Guidance Document Referenced
+
+* FDA's Guidance for the Content of Premarket Submissions for Software
+  Contained in Medical Devices.
+* NCCLS guideline EP9-A2: Method Comparison and Bias Estimation Using
+  Patient Samples.
+* Conforms to EN61326 EMC.
+
+== K. Test Principle
+
+Two Site Elisa. The analyte, cardiac Troponin I is captured by a probe
+impregnated with a monoclonal anti-cTnI antibody. The sample is discarded.
+The probe is treated with a second reagent composed of anti-cTnI polyclonal
+antibodies which are tagged with Alkaline Phosphatase. After washing, the
+sandwich complex is treated with a substrate which upon being cleaved by the
+captured alkaline phosphatase produces an electronic signal which is read
+by the i-STAT analyzer.
+
+== L. Performance Characteristics
+
+=== 1. Analytical performance
+
+==== a. Precision/Reproducibility
+
+Three levels of plasma controls were tested as duplicates 20 times over a
+period of 37 days in four different locations (in-house and three clinical
+sites) using three different lots of i-STAT cTnI cartridges with 25
+different i-STAT analyzers.
+
+.Precision/Reproducibility by Site
+[cols="1,1,1,1,1,1,1", options="header"]
+|===
+| Site | Control Level | Mean | Within-Lot %CV | Lot-to-Lot %CV | Vial-to-Vial %CV | Total %CV
+
+.4+| i-STAT
+| 1 | 0.58 | 5.2 | 2.3 | 3.1 | 6.1
+| 2 | 2.36 | 4.2 | 2.4 | 4.0 | 5.9
+| 3 | 33.65 | 5.0 | 3.3 | 2.6 | 6.1
+
+.4+| Site 1
+| 1 | 0.49 | 6.3 | 2.9 | 7.0 | 9.4
+| 2 | 2.01 | 5.3 | 4.1 | 9.7 | 11.4
+| 3 | 31.52 | 6.5 | 2.9 | 5.3 | 8.4
+
+.4+| Site 2
+| 1 | 0.54 | 4.7 | 4.0 | 6.2 | 8.2
+| 2 | 2.23 | 5.3 | 3.0 | 6.2 | 8.3
+| 3 | 32.90 | 5.4 | 3.1 | 5.5 | 7.9
+
+.4+| Site 3
+| 1 | 0.50 | 5.3 | 5.7 | 2.4 | 7.3
+| 2 | 2.04 | 5.0 | 6.6 | 4.2 | 8.3
+| 3 | 29.20 | 6.4 | 2.9 | 4.5 | 7.8
+|===
+
+==== b. Linearity/assay reportable range
+
+Whole blood and plasma samples from three donors were tested. For whole
+blood the original cTnI negative samples were spiked and assayed in
+duplicate in three separate i-STAT cTnI cartridges. The samples were
+diluted in equal masses with the original negative samples and assayed
+under the same conditions. For plasma the three samples were tested as
+original samples and combined in equal masses.
+
+.Recovery Study — Whole Blood
+[cols="1,1,1,1", options="header"]
+|===
+| Sample | Concentration | Diluted Concentration | % Recovery
+| A | 2.05 | 1.04 | 101
+| B | 6.31 | 3.14 | 100
+| C | 27.04 | 14.05 | 104
+|===
+
+.Recovery Study — Plasma
+[cols="1,1,1,1", options="header"]
+|===
+| Sample | Concentration | Diluted Concentration | % Recovery
+| A | 2.41 | - | -
+| B | 7.50 | - | -
+| C | 29.35 | - | -
+| A+B | - | 4.69 | 95
+| B+C | - | 18.90 | 103
+| A+C | - | 16.89 | 106
+|===
+
+Performance characteristics of i-STAT cTnI have been established in the
+range from 0.02 to 35.00 ng/mL.
+
+==== c. Traceability (controls, calibrators, or method)
+
+Not applicable
+
+==== d. Detection limit
+
+Analytical sensitivity was determined to be 0.02 ng/mL based on two standard
+deviations from a sample with zero concentration.
+
+The 20% and 10% functional sensitivities were estimated from whole blood
+samples measurements to be 0.07 and 0.1 ng/mL, respectively.
+
+==== e. Analytical specificity
+
+Related muscle proteins were tested for cross reactivity at concentrations
+of 1000 ng/mL.
+
+.Cross-Reactivity
+[cols="2,1", options="header"]
+|===
+| Cross reactants | % Cross-reactivity
+| Troponin C (cardiac) | <0.002
+| Troponin T (cardiac) | 0.65
+| Troponin I (skeletal) | <0.002
+| Troponin T (skeletal) | <0.002
+|===
+
+Interference testing was performed with the substances listed below and
+found to have less than a 10% change at the concentrations listed below,
+when added to a plasma pool containing approximately 2 ng/mL of cTnI.
+
+.Interference Testing
+[cols="2,1,1,1", options="header"]
+|===
+| Generic Name | Test Level µMol/L | Average cTnI ng/mL | % change
+| Control | NA | 1.75 | NA
+| Acetaminophen | 1660 | 1.76 | 0.6
+| Acetylsalicylic Acid | 3330 | 1.78 | 1.7
+| Allopurinol | 294 | 1.84 | 5.1
+| Ampicillin | 349 | 1.78 | 1.7
+| Ascorbic Acid | 227 | 1.78 | 1.7
+| Atenolol | 37.6 | 1.8 | 2.9
+| Caffeine | 308 | 1.83 | 4.6
+| Captopril | 23 | 1.83 | 4.6
+| Chloramphenicol | 155 | 1.79 | 2.3
+| Diclofenac | 169 | 1.75 | 0
+| Digoxin | 6.15 | 1.81 | 3.4
+| Dopamine | 5.87 | 1.67 | -4.6
+| Enalaprilat | 0.86 | 1.81 | 3.4
+| Erythromycin | 81.6 | 1.74 | -0.6
+| Furosemide | 181 | 1.82 | 4.0
+| Sodium Heparin | 36 U/mL | 1.58 | -9.7
+| Sodium Heparin | 90 U/mL | 1.41 | -19.4
+| Ibuprofen | 2425 | 1.79 | 2.3
+| Isosorbide Dinitrate | 636 | 1.72 | -1.7
+| Methyldopa | 71 | 1.85 | 5.7
+| Nicotine | 6.2 | 1.76 | 0.6
+| Nifedipine | 1.156 | 1.79 | 2.3
+| Phenytoin | 198 | 1.76 | 0.6
+| Propranolol | 7.71 | 1.82 | 4.0
+| Salicylic Acid | 4340 | 1.69 | -3.4
+| Theophylline | 222 | 1.77 | 1.1
+| Verapamil | 4.4 | 1.82 | 4.0
+| Warfarin | 64.9 | 1.79 | 2.3
+|===
+
+==== f. Assay cut-off
+
+The reference range was established from 162 whole blood and plasma samples
+of apparently healthy donors using duplicate measures with three different
+lots of i-STAT cTnI cartridges. The 0 to 97.5% range results spanned from
+0 to 0.03 ng/mL.
+
+=== 2. Comparison studies
+
+==== a. Method comparison with predicate device
+
+Studies were carried out at three clinical sites with patients in any
+hospital department who presented with acute, severe, and prolonged chest
+pain. Up to three samples, drawn at different times, could be taken from
+any one patient. Data from 189 samples were included in the data set. All
+testing was performed by end-user personnel. Samples were drawn by
+venipuncture using heparinized evacuated tubes. Operators analyzed whole
+blood in duplicate using three different i-STAT cTnI cartridges, for a
+total of 6 whole blood measurements. The tubes were then centrifuged and
+analyzed by the laboratory in duplicate using the predicate device and
+again in duplicate for three different i-STAT cTnI cartridges, for a total
+of 6 plasma measurements. Analysis of the method comparison data was
+undertaken in accordance with the recommendations set forth in the NCCLS
+guideline EP9-A2: Method Comparison and Bias Estimation Using Patient
+Samples. Of 2241 test method data points, 3 were determined to be
+within-method outliers and excluded from subsequent analysis. Deming
+regression analyses were performed on the first replicate of each sample,
+on average duplicate values and on the whole data set against the
+predicate. Results from a representative subset with n=189 and a range from
+0 to 46.27 ng/mL gave a slope of 0.883, an intercept of 0.029, and a
+correlation (r) of 0.975.
+
+==== b. Matrix comparison
+
+Deming regression analysis was performed comparing the plasma data set
+against the whole blood data set. A slope of 1.002, an intercept of -0.01,
+and a correlation (r) of 0.991 were obtained.
+
+=== 3. Clinical studies
+
+==== a. Clinical sensitivity
+
+Not performed
+
+==== b. Clinical specificity
+
+Not performed
+
+==== c. Other clinical supportive data (when a and b are not applicable)
+
+None provided.
+
+=== 4. Clinical cut-off
+
+Clinical cut-off was not independently established for this device.
+
+=== 5. Expected values/Reference range
+
+The reference range was established from 162 whole blood and plasma samples
+of apparently healthy donors using duplicate measures with three different
+lots of i-STAT cTnI cartridges. The 0 to 97.5% range results spanned 0 to
+0.03 ng/mL.
+
+== M. Instrument Name
+
+i-STAT 1 Analyzer
+
+== N. System Descriptions
+
+=== 1. Modes of Operation
+
+The i-STAT 1 Analyzers are portable clinical analyzers designed to be used
+at the point of patient care. The analyzers employ single-use cartridges
+containing biosensor chips to perform diagnostic tests on whole blood.
+Whole blood is introduced into the sample well of the cartridge at the
+blood entry port. After closure, the cartridge is inserted into the
+cartridge door of the analyzer. Insertion of the cartridge initiates a
+precisely controlled and monitored sequence of steps performed by the
+instrument without user intervention. Results are calculated, displayed
+and stored in memory to be transmitted at some later time via an infra red
+link for printing and database storage.
+
+=== 2. Software
+
+FDA has reviewed applicant's Hazard Analysis and software development
+processes for this line of product types: *Yes*
+
+=== 3. Sample Identification
+
+Bar code reader is incorporated into the system.
+
+=== 4. Specimen Sampling and Handling
+
+Whole blood samples are applied directly into the sample well of the
+cartridge.
+
+=== 5. Assay Types
+
+The i-STAT analyzer is capable of performing assays for sodium, potassium,
+chloride, ionized calcium, glucose, blood urea nitrogen, pH, carbon
+dioxide, oxygen, hematocrit, creatinine, lactate, Celite Activated Clotting
+Time (ACT), and Prothrombin Time (PT).
+
+=== 6. Reaction Types
+
+All assays are performed in self-contained cartridges which output an
+amperometric signal which is detected and processed by the analyzer.
+
+=== 7. Calibration
+
+All cartridges contain an enclosed aqueous calibrator (with the exception
+of ACT and PT).
+
+=== 8. Quality Control
+
+A set of controls, the i-STAT Cardiac Markers Control set, is available.
+
+== O. Other Supportive Instrument Performance Characteristics Data
+
+Not Applicable
+
+== P. Conclusion
+
+Based upon the information provided, FDA recommended that the i-STAT cTnI
+Test be found substantially equivalent to predicate devices according to
+21 CFR §862.1215.
+
+'''
+
+[NOTE]
+====
+Source: FDA 510(k) Substantial Equivalence Determination Decision Summary,
+K031739, i-STAT® cTnI Test (i-STAT Corporation). Retrieved 2026-09-08. This
+is a U.S. federal government regulatory record and is in the public domain;
+reproduced here in full for DeX record population per repository
+conventions.
+====
