@@ -1,0 +1,137 @@
+= Tinaquant Hemoglobin A1c Gen.2 (Whole Blood and Hemolysate Application) — GUDID Device Record
+:device-primary-di: 04015630926930
+:document-type: GUDID
+:source-date: 2026-09-14
+:toc: left
+
+== Device Identifier (DI) Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Brand Name | Tinaquant Hemoglobin A1c Gen2 Whole blood and Hemolysate Application
+| Version or Model | 5401640190
+| Catalog Number | 5401640190
+| Commercial Distribution Status | In Commercial Distribution
+| Company Name | Roche Diagnostics GmbH
+| Primary DI Number | 04015630926930
+| Issuing Agency | GS1
+| Device Count | 1
+| Labeler D-U-N-S® Number | 315028860
+| Device Description | No description
+|===
+
+== Device Characteristics
+
+[cols="2,1", options="header"]
+|===
+| Characteristic | Value
+| MRI safety information in labeling | Labeling does not contain MRI Safety Information
+| Required to be labeled as containing natural rubber latex or dry natural rubber (21 CFR 801.437) | No
+| For Single-Use | Yes
+| Prescription Use (Rx) | Yes
+| Over the Counter (OTC) | No
+| Kit | No
+| Combination Product | No
+| Human Cell, Tissue or Cellular or Tissue-Based Product (HCT/P) | No
+|===
+
+== GMDN
+
+[cols="1,2,3,1,1", options="header"]
+|===
+| GMDN Term Code | GMDN Term Name | GMDN Term Definition | GMDN Term Status | Implantable?
+| 59090 | Glycated haemoglobin (HbA1c) IVD, kit, nephelometry/turbidimetry | A collection of reagents and other associated materials intended to be used for the qualitative and/or quantitative detection of glycated haemoglobin (HbA1c) using a nephelometry/turbidimetry method. | Active | false
+|===
+
+== FDA Product Code
+
+[cols="1,3", options="header"]
+|===
+| Product Code | Product Code Name
+| LCP | ASSAY, GLYCOSYLATED HEMOGLOBIN
+|===
+
+== FDA Premarket Submission
+
+[cols="1,1", options="header"]
+|===
+| FDA Premarket Submission Number | Supplement Number
+| K072714 | 000
+|===
+
+Device Exempt from Premarket Submission: No
+
+NOTE: K072714 is a Special 510(k) covering a device modification (extended
+measuring range) to the originally cleared device, Tina-Quant Hemoglobin A1c
+Gen.2, cleared under K052464. See `510k.adoc` for both filings.
+
+== Sterilization
+
+Device Packaged as Sterile: No +
+Requires Sterilization Prior to Use: No +
+Sterilization Method: No Sterilization Methods Found
+
+== Storage and Handling
+
+[cols="1,2", options="header"]
+|===
+| Condition | Value
+| Storage/Handling Temperature | between 2 and 8 Degrees Celsius
+|===
+
+== Clinically Relevant Size
+
+No Device Sizes
+
+== Device Record Status
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Public Device Record Key | ec1769bf-6320-4e13-bde1-02e8f6161219
+| Public Version Date | July 06, 2018
+| Public Version Number | 3
+| DI Record Publish Date | September 20, 2016
+|===
+
+== Package DI
+
+No Package DIs found.
+
+== Secondary DI
+
+No Secondary DIs found.
+
+== Unit of Use DI
+
+No Unit of Use DI Numbers Found.
+
+== Direct Marking (DM)
+
+Not applicable.
+
+== Production Identifier(s) in UDI
+
+[cols="1,1", options="header"]
+|===
+| Identifier | Present in UDI
+| Lot or Batch Number | Yes
+| Serial Number | No
+| Expiration Date | Yes
+| Manufacturing Date | No
+| Donation Identification Number | No
+|===
+
+== Customer Contact
+
+Not defined in the GUDID record.
+
+[NOTE]
+====
+Source: AccessGUDID device record for Primary DI 04015630926930
+(https://accessgudid.nlm.nih.gov/devices/04015630926930), a U.S. federal
+government (NLM/FDA) database entry. Retrieved 2026-09-14. GMDN terms are
+reproduced under license from the GMDN Agency per AccessGUDID's terms of
+use.
+====

@@ -1,0 +1,255 @@
+= Tina-Quant Hemoglobin A1c Gen.2 Test System — FDA 510(k) Filings
+:device-primary-di: 04015630926930
+:document-type: 510k
+:source-date: 2026-09-14
+:toc: left
+:toclevels: 2
+
+This device's FDA premarket submission history spans two related 510(k)
+filings: the original clearance, K052464 (2005), and a later Special 510(k)
+device modification, K072714 (2008), which is the submission number recorded
+against this Primary DI in GUDID. Both are reproduced below since the
+modification filing incorporates the original device's data by reference
+rather than restating it.
+
+== K072714 — Special 510(k): Device Modification (2008)
+
+This filing does not use the full "Substantial Equivalence Determination
+Decision Summary" template (sections A–R). FDA published only the ODE Review
+Memorandum for this Special 510(k), reproduced here in its original,
+numbered-item shape rather than forced into the newer template's section
+labels.
+
+=== ODE Review Memorandum
+
+To: THE FILE +
+Re: Document Number K072714
+
+This 510(k) submission contains information/data on modifications made to
+the submitter's own Class II, Class III or Reserved Class I device requiring
+510(k). The following items are present and acceptable for the
+**Tina-Quant Hemoglobin A1c Gen.2 Test System**:
+
+. The name and 510(k) number of Roche Diagnostics Corp.'s previously
+  cleared device, Tina-Quant Hemoglobin A1c Gen.2 Test System, cleared
+  under K052464.
+. Submitter's statement that the indication/intended use of the modified
+  device as described in its labeling has not changed, along with proposed
+  labeling (instructions for use, package labeling, and any
+  advertisements/promotional materials).
+. A description of the device modification(s), including diagrams,
+  engineering drawings, photographs, and user/service manuals sufficient
+  to demonstrate the fundamental scientific technology has not changed.
++
+[NOTE]
+====
+This change extended the measuring range from 0.3–2.6 g/dL to 0.3–3.4 g/dL
+HbA1c. Additional information was provided on previous labeling changes for
+a new anticoagulant, potassium fluoride/Na2-EDTA.
+====
+. Comparison information (similarities and differences) to the applicant's
+  legally marketed predicate device, including labeling, intended use, and
+  physical characteristics.
+. A Design Control Activities Summary, including:
+.. Identification of the risk analysis method(s) used to assess the
+   impact of the modification, and the results of that analysis.
+.. Based on the risk analysis, identification of the verification and/or
+   validation activities required, including methods/tests used and
+   acceptance criteria applied.
+.. A declaration of conformity with design controls, including:
+... A signed statement that all verification and validation activities
+    were performed as required by the risk analysis, and that the
+    predetermined acceptance criteria were met.
+... A signed statement that the manufacturing facility conforms with
+    design control procedure requirements per 21 CFR 820.30, with records
+    available for review.
+. A Truthful and Accurate Statement, a 510(k) Summary or Statement, and
+  the Indications for Use enclosure (and Class III Summary, if applicable).
+
+The labeling for this modified device was reviewed to verify that the
+indication/intended use is unaffected by the modification. The submitter's
+description of the modification and the comparative information between
+the modified and unmodified devices demonstrate that the fundamental
+scientific technology has not changed. The submitter provided the design
+control information specified in the New 510(k) Paradigm; on this basis,
+FDA recommended the device be determined substantially equivalent to the
+previously cleared device.
+
+== K052464 — Original 510(k) Summary (2005)
+
+The original clearance for the Tina-Quant Hemoglobin A1c Gen.2 test,
+referenced by K072714 above. FDA published the sponsor's own "510(k)
+Summary" for this filing (per 21 CFR 807.92) rather than the newer
+decision-summary template — the heading structure below follows that
+original document's shape.
+
+=== Introduction
+
+According to the requirements of 21 CFR 807.92, the following information
+provides sufficient detail to understand the basis for a determination of
+substantial equivalence.
+
+=== Submitter
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Name | Roche Diagnostics
+| Address | 9115 Hague Rd, Indianapolis, IN 46250
+| Phone | (317) 521-3723
+| Contact Person | Theresa M. Ambrose
+| Date Prepared | September 7, 2005
+|===
+
+=== Device Name
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Proprietary Name | Tina-Quant® Hemoglobin A1c Gen.2 test
+| Common Name | Hemoglobin A1c test
+| Classification Name | Glycosylated hemoglobin assay
+|===
+
+=== Device Description
+
+With the Tina-Quant Hemoglobin A1c Gen.2 test system, the anticoagulated
+whole blood specimen is hemolyzed prior to determination of HbA1c by a
+turbidimetric inhibition immunoassay (TINIA). Liberated hemoglobin (Hb) in
+the hemolyzed sample is converted to a derivative having a characteristic
+absorption spectrum and measured bichromatically. The instrument calculates
+the % HbA1c from the HbA1c/Hb ratio according to a user-selected protocol.
+
+=== Intended Use
+
+The Tina-Quant Hemoglobin A1c Gen.2 test is an in vitro diagnostic reagent
+system intended for the quantitative determination of percent hemoglobin
+A1c in whole blood.
+
+HbA1c results are useful for monitoring long-term blood glucose control in
+individuals with diabetes mellitus.
+
+=== Predicate Device
+
+Substantial equivalence is claimed to the original Tina-Quant Hemoglobin
+test, cleared as K934070.
+
+=== Substantial Equivalence — Similarities
+
+[cols="1,2,2", options="header"]
+|===
+| Feature | Predicate: Original Tina-Quant HbA1c (K934070) | Modified: Tina-Quant HbA1c Gen.2
+| Intended Use / Indications for Use | For the quantitative determination of hemoglobin A1c in whole blood. Measurements are useful to provide an indication of glycemic control in patients with diabetes mellitus. | In vitro diagnostic reagent system intended for the quantitative determination of percent hemoglobin A1c in whole blood. HbA1c results are useful for monitoring of long-term blood glucose control in individuals with diabetes mellitus.
+| Specimen Type | Capillary blood; EDTA or heparinized whole blood. | Same
+| Test Principle — Determination of HbA1c | Turbidimetric immunoinhibition (TINIA). Antigen-antibody complexes are formed and excess antibody aggregates with polyhapten to form insoluble complexes. | Same. Same antibody.
+| Test Principle — Determination of Hb | Bichromatic photometric determination after conversion to a colored derivative. | Same
+| Calculation of % HbA1c | Calculated automatically by instrument according to user-selected protocol. | Same
+|===
+
+=== Shared Reagent Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Hemolyzing reagent : sample ratio | 1:100
+| Antibody | Polyclonal anti-HbA1c from sheep blood
+| Calibrator | Hemolysate derived from human blood and sheep blood; TTAB detergent; stabilizer
+| Quality Control | Precinorm HbA1c I / Precipath HbA1c
+|===
+
+=== Performance Characteristics — Specificity
+
+[cols="1,2,2", options="header"]
+|===
+| Feature | Predicate (K934070) | Modified: Tina-Quant HbA1c Gen.2
+| Specificity | No cross-reactivity with HbA0, HbA1a, acetylated hemoglobin, carbamylated hemoglobin, glycated albumin, labile HbA1c and HbA1d, and an acetaldehyde hemoglobin adduct. | Stability claims transferred from predicate device due to use of the same antibody and a similar reagent:sample ratio.
+|===
+
+=== Substantial Equivalence — Differences
+
+[cols="1,2,2", options="header"]
+|===
+| Feature | Predicate: Original Tina-Quant HbA1c (K934070) | Modified: Tina-Quant HbA1c Gen.2
+| Pretreatment | Manual pretreatment with hemolyzing reagent. | Two options: Hemolysate application — same (manual pretreatment with hemolyzing reagent); Whole blood application — automated on-board sample pretreatment with hemolyzing reagent.
+| Instruments | Automated analyzers including the Hitachi family. | Integra 800
+| Determination of Hb | Occurs in a separate channel with a separate reagent. | Hb measured in the same channel during the preincubation phase of HbA1c determination (sample + R1). No separate reagent or channel needed.
+| R1 | Buffer: 50 mM MES, pH 6.2; antibody; stabilizers. | Buffer: 25 mM MES / 15 mM TRIS, pH 6.2; antibody; stabilizers.
+| R2 | Buffer: 50 mM MES, pH 6.2; polyhapten modified with aminodextran AD50; concentration > 20 µg/mL; stabilizers. | Buffer: 25 mM MES / 15 mM Tris, pH 6.2; polyhapten modified with aminodextran AD500; concentration > 8 µg/mL; stabilizers.
+| Hemolyzing Reagent | Contains 10 mM EDTA and TTAB detergent. | Different concentrations used. Hemolysate application: separate hemolyzing reagent with 20 mM EDTA. Whole blood application: Hemolyzing Reagent Gen.2, a fourfold increase in concentration; no separate Hb reagent needed.
+| Calibrator Traceability | Provided with kit as lyophilisate in four levels; in-house reference materials. | Provided separately as a single level, diluted on-board the analyzer; standardized against the approved IFCC reference method.
+| Reagent Stability | 2–8 °C until expiration date; opened: 4 weeks at 2–12 °C. | 2–8 °C until expiration date; on-board: 28 days.
+|===
+
+=== Performance Characteristics — Precision, Linearity, and Detection Limit
+
+[cols="1,2,2", options="header"]
+|===
+| Feature | Predicate (K934070) | Modified: Tina-Quant HbA1c Gen.2
+| Precision | Within run: 3.8% @ 5.2% HbA1c; 4.0% @ 11.3% HbA1c. Total: 5.8% @ 5.2% HbA1c; 5.6% @ 11.3% HbA1c. | Whole blood application — Within run: 0.8% @ 5.4% HbA1c, 0.9% @ 10.2% HbA1c; Between day: 1.3% @ 5.3% HbA1c, 1.0% @ 10.3% HbA1c. Hemolysate application — Within run: 1.0% @ 5.5% HbA1c, 0.6% @ 10.6% HbA1c; Between day: 1.0% @ 5.3% HbA1c, 0.8% @ 10.7% HbA1c.
+| Linearity | 0.3 g/dL up to highest calibrator for HbA1c; 9–24 g/dL Hb (before dilution). | 0.3–2.6 g/dL HbA1c; 4–35 g/dL Hb (before dilution), based on highest calibrator value.
+| Lower Detection Limit | 0.3 g/dL HbA1c. | 0.02 g/dL HbA1c; 0.09 g/dL Hb.
+|===
+
+=== Performance Characteristics — Interferences and Expected Values
+
+[cols="1,2,2", options="header"]
+|===
+| Feature | Predicate (K934070) | Modified: Tina-Quant HbA1c Gen.2 (Whole Blood Application)
+| Endogenous Interferences | No interference from acetylsalicylic acid, gamma globulin, rheumatoid factor, or ascorbic acid. Lipemia: no interference up to 17.5 mg/dL; lipemia (intralipid): no interference up to 1230 mg/dL. | No significant interference from icterus. Lipemia (intralipid): up to 800 mg/dL. Rheumatoid factor: up to 750 IU/mL. Glycemia: up to 1000 mg/dL glucose.
+| Expected Values | 4.3%–5.8% HbA1c, based on a 1993 study with in-house standardization. | 2.9%–4.2% HbA1c, based on a study done with IFCC standardization.
+|===
+
+=== Indications for Use
+
+510(k) Number: K052464 +
+Device Name: Tina-Quant® Hemoglobin A1c Gen.2
+
+The Tina-Quant Hemoglobin A1c Gen.2 test is an in vitro diagnostic reagent
+system intended for the quantitative determination of percent hemoglobin
+A1c in whole blood.
+
+HbA1c results are useful for monitoring of long-term blood glucose control
+in individuals with diabetes mellitus.
+
+Prescription Use: Yes (21 CFR 801 Subpart D)
+
+=== FDA Substantial Equivalence Letter (excerpt)
+
+Re: K052464 +
+Trade/Device Name: Tina-Quant® Hemoglobin A1c Gen.2 Test +
+Regulation Number: 21 CFR 864.7470 +
+Regulation Name: Glycosylated hemoglobin assay +
+Regulatory Class: Class II +
+Product Code: LCP +
+Dated: September 07, 2005 +
+Received: September 08, 2005
+
+FDA reviewed the Section 510(k) premarket notification of intent to market
+the above device and determined it substantially equivalent (for the
+indications for use stated in the enclosure) to legally marketed predicate
+devices. The device may be marketed subject to the general controls
+provisions of the Federal Food, Drug, and Cosmetic Act, including
+requirements for annual registration, device listing, good manufacturing
+practice, labeling, and prohibitions against misbranding and adulteration.
+
+Signed: Carol C. Benson, M.A., Acting Director, Division of Chemistry and
+Toxicology, Office of In Vitro Diagnostic Device Evaluation and Safety,
+Center for Devices and Radiological Health.
+
+[NOTE]
+====
+Source: U.S. federal regulatory records, public domain — full reproduction
+is the agreed exception for this document type.
+
+- K072714 ODE Review Memorandum:
+  https://www.accessdata.fda.gov/cdrh_docs/reviews/K072714.pdf
+- K052464 510(k) Summary and clearance letter:
+  https://www.accessdata.fda.gov/cdrh_docs/pdf5/K052464.pdf
+
+K052464's summary is a scanned 2005 filing; some OCR-derived punctuation
+(e.g. "A1c" rendered as "Alc"/"Ale" in places) has been normalized here.
+Comparison table cell boundaries were reconstructed from the extracted text
+of a two-column source table and may not preserve the original's exact row
+groupings in every case, though the content is unaltered. Retrieved
+2026-09-14.
+====
