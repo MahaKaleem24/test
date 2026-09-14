@@ -1,0 +1,138 @@
+= ADVIA 2120i Refurbished System, Single Aspirate — GUDID Device Record
+:device-primary-di: 00630414237879
+:document-type: GUDID
+:source-date: 2026-09-14
+:toc: left
+
+== Device Identifier (DI) Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Brand Name | C-SAA ANALYT MODULE ASSY 2120I
+| Version/Catalog Number | 11314044
+| Commercial Distribution Status | In Commercial Distribution
+| Company Name | Siemens Healthcare Diagnostics Inc.
+| Primary DI Number | 00630414237879
+| Issuing Agency | GS1
+| Device Count | 1
+| Labeler D-U-N-S® Number | 064608573
+| Device Description | ADVIA 2120i Refurbished System, Single Aspirate
+|===
+
+== Device Characteristics
+
+[cols="2,1", options="header"]
+|===
+| Characteristic | Value
+| MRI safety information in labeling | Labeling does not contain MRI Safety Information
+| Required to be labeled as containing natural rubber latex (21 CFR 801.437) | No
+| For Single-Use | No
+| Prescription Use (Rx) | No
+| Over the Counter (OTC) | No
+| Kit | No
+| Combination Product | No
+| Human Cell, Tissue or Cellular or Tissue-Based Product (HCT/P) | No
+|===
+
+== GMDN
+
+[cols="1,2,3,1,1", options="header"]
+|===
+| GMDN Term Code | GMDN Term Name | GMDN Term Definition | GMDN Term Status | Implantable?
+| 35476 | Haematological cell analyser IVD | An electrically-powered automated or semi-automated laboratory instrument intended to be used for the enumeration of a haematological cell population, using technology which may include cell lysis, electrical impedance, conductivity, cytometry, and/or light scatter to measure and/or calculate white cell, red cell and platelet parameters and indices in a clinical specimen. Some types may also include measurement of haemoglobin. | Active | false
+|===
+
+== FDA Product Code
+
+[cols="1,3", options="header"]
+|===
+| Product Code | Product Code Name
+| GKZ | Counter, Differential Cell
+|===
+
+== FDA Premarket Submission
+
+[cols="1,1", options="header"]
+|===
+| FDA Premarket Submission Number | Supplement Number
+| K162977 | 000
+|===
+
+Device Exempt from Premarket Submission: No
+
+NOTE: This is a refurbished unit of a long-running platform. A related FDA
+recall record (Z-1392-2021) for this same catalog number lists both
+*K102644* and *K162977* as associated 510(k) numbers — K102644 being the
+earlier clearance (CPU board replacement) and K162977 the current one on
+file in GUDID (RoHS/REACH hardware modification). See `510k.adoc` for the
+K162977 decision memorandum.
+
+== Sterilization
+
+Device Packaged as Sterile: No +
+Requires Sterilization Prior to Use: No +
+Sterilization Method: No Sterilization Methods Found
+
+== Storage and Handling
+
+No storage/handling data found in the GUDID record.
+
+== Clinically Relevant Size
+
+No Device Sizes
+
+== Device Record Status
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Public Device Record Key | e4f5745b-2195-40a6-baa2-ef4697aad1fa
+| Public Version Date | May 16, 2024
+| Public Version Number | 6
+| DI Record Publish Date | March 23, 2018
+|===
+
+== Package DI
+
+No Package DIs found.
+
+== Secondary DI
+
+No Secondary DIs found.
+
+== Unit of Use DI
+
+No Unit of Use DI Numbers Found.
+
+== Direct Marking (DM)
+
+Device Subject to Direct Marking (DM), but Excepted: No +
+DM DI Different from Primary DI: No +
+DM DI Number: None
+
+== Production Identifier(s) in UDI
+
+[cols="1,1", options="header"]
+|===
+| Identifier | Present in UDI
+| Lot or Batch Number | No
+| Serial Number | Yes
+| Expiration Date | No
+| Manufacturing Date | No
+| Donation Identification Number | No
+|===
+
+== Customer Contact
+
+Phone: +1(877)229-3711 +
+Email: CONTACT@SIEMENS-HEALTHINEERS.COM
+
+[NOTE]
+====
+Source: AccessGUDID device record for Primary DI 00630414237879
+(https://accessgudid.nlm.nih.gov/devices/00630414237879), a U.S. federal
+government (NLM/FDA) database entry. Retrieved 2026-09-14. GMDN terms are
+reproduced under license from the GMDN Agency per AccessGUDID's terms of
+use.
+====
