@@ -1,0 +1,503 @@
+= FreeStyle Lite / FreeStyle Freedom Lite Blood Glucose Monitoring Systems — 510(k) Substantial Equivalence Determination Decision Summary
+:device-primary-di: 00699073710260
+:document-type: 510k
+:source-date: 2026-09-14
+:toc: left
+:toclevels: 2
+:sectnums:
+
+Template: Assay and Instrument Combination
+
+== A. 510(k) Number
+
+K092602
+
+== B. Purpose for Submission
+
+New Device – new glucose test strips using GDH-FAD methodology for
+marketed meters.
+
+== C. Measurand
+
+Whole blood glucose
+
+== D. Type of Test
+
+Quantitative coulometric assay, glucose dehydrogenase (GDH-FAD)
+
+== E. Applicant
+
+Abbott Diabetes Care, Inc.
+
+== F. Proprietary and Established Names
+
+FreeStyle Lite and FreeStyle Freedom Lite Blood Glucose Monitoring Systems
+
+== G. Regulatory Information
+
+. Regulation section: 21 CFR 862.1345; Glucose test system
+. Classification: Class II
+. Product code: NBW, System, Test, Blood Glucose, Over The Counter; LFR, Glucose Dehydrogenase, Glucose
+. Panel: Clinical Chemistry (75)
+
+== H. Intended Use
+
+=== 1. Intended use(s)
+
+See Indications for Use below.
+
+=== 2. Indications for use
+
+**FreeStyle Lite Blood Glucose Monitoring System** — intended for use in
+the quantitative measurement of glucose in capillary whole blood from the
+finger, upper arm and palm, and venous whole blood. It is intended for use
+by healthcare professionals and people with diabetes mellitus at home as
+an aid in monitoring the effectiveness of a diabetes control program. It
+is not intended for the diagnosis of or screening for diabetes mellitus,
+and is not intended for use on neonates or arterial blood.
+
+**FreeStyle Freedom Lite Blood Glucose Monitoring System** — same
+indications as above.
+
+=== 3. Special conditions for use statement(s)
+
+* Not intended for use on neonates
+* Not for the diagnosis of or screening for diabetes mellitus
+* Not to be used for patients who are dehydrated, hypotensive or in shock
+* Not for use for patients in a hyperglycemic-hyperosmolar state, with or
+  without ketosis
+* Not for use on critically ill patients
+* Alternative site testing can only be done during times of steady state
+
+=== 4. Special instrument requirements
+
+FreeStyle Lite and FreeStyle Freedom Lite Blood Glucose meters
+
+== I. Device Description
+
+The FreeStyle Lite and FreeStyle Freedom Lite Blood Glucose Monitoring
+Systems contain a blood glucose meter (Lite and Freedom Lite,
+respectively), FreeStyle Lite test strips, FreeStyle control solution,
+lancing device and lancets. The only difference between the two meters is
+that the FreeStyle Lite meter has a backlight, with an additional button
+to operate it, while the FreeStyle Freedom Lite meter does not.
+
+== J. Substantial Equivalence Information
+
+=== 1. Predicate device name(s)
+
+FreeStyle Lite Blood Glucose Monitoring System
+
+=== 2. Predicate 510(k) number(s)
+
+K070850
+
+=== 3. Comparison with predicate
+
+.Similarities
+[cols="1,2,1", options="header"]
+|===
+| Item | Subject Device | Predicate
+| Indications for use | Quantitative measurement of glucose in capillary whole blood from the finger, forearm and palm, and venous whole blood; for healthcare professionals and people with diabetes mellitus at home; not for diagnosis/screening, neonates, or arterial blood | Same
+| Test Principle | Coulometric biosensor technology | Same
+| Sample Type | Venous or capillary whole blood | Same
+| Sample volume | 0.3 µL | Same
+| Measurement range | 20-500 mg/dL | Same
+| AST | Upper arm and palm | Same
+| Calibration | None required | Same
+| Second sample application | Within 60 seconds | Same
+| Measurement time | 5 seconds | Same
+|===
+
+.Differences
+[cols="1,1,1", options="header"]
+|===
+| Item | Subject Device | Predicate
+| Enzyme | GDH-FAD | GDH-PQQ
+| Shelf life | 12 months | 18 months
+|===
+
+== K. Standard/Guidance Document Referenced
+
+* ISO 15197:2003 — In vitro diagnostic test systems – Requirements for
+  blood-glucose monitoring systems for self-testing in managing diabetes
+  mellitus.
+* ISO 14971:2007, Medical devices – Application of risk management to
+  medical devices.
+* EN 13640:2002, Stability testing of in vitro diagnostic medical devices.
+* CLSI EP5-A2: Evaluation of Precision Performance of Quantitative
+  Measurement Methods.
+* CLSI EP6-A: Evaluation of Linearity of Quantitative Measurement
+  Procedures, A Statistical Approach.
+* CLSI EP7-A2: Interference Testing in Clinical Chemistry.
+* CLSI EP9-A2: Method Comparison and Bias Estimation Using Patient
+  Samples.
+* FDA Guideline, Review criteria for assessment of portable blood glucose
+  monitoring in vitro diagnostic devices using glucose oxidase,
+  dehydrogenase or hexokinase methodology.
+
+== L. Test Principle
+
+The FreeStyle Lite and FreeStyle Freedom Lite glucose meters, in
+conjunction with the FreeStyle Lite test strips, utilize coulometric
+biosensor technology to quantitatively measure the glucose concentration
+in whole blood samples and in control solutions. The glucose biosensors
+recognize the glucose present in whole blood or control solutions by
+virtue of the specificity of the enzyme FAD dependent glucose
+dehydrogenase (GDH) present on the test strip. The electrons liberated by
+this reaction are transferred via a co-factor and mediator to the meter
+where they are read as a small electrical current. The magnitude of the
+charge measured over reaction time is directly proportional to the level
+of glucose in the applied sample.
+
+== M. Performance Characteristics
+
+=== 1. Analytical performance
+
+==== a. Precision/Reproducibility
+
+The sponsor performed precision studies in accordance with the ISO 15197
+guideline. Adjusted venous whole blood samples at 5 glucose levels
+(hematocrit range 35 to 50%) were used for within-day precision studies.
+Each concentration was tested 10 times each on 10 meters, using 3 test
+strip lots, for a total of 300 tests per blood glucose level. The
+reference value was determined by the YSI 2300 glucose analyzer.
+
+.Within-Day Precision
+[cols="1,1,1,1,1,1,1,1,1,1", options="header"]
+|===
+| Lot | Level 1 Avg (30-50 mg/dL) | SD | %CV | Level 2 Avg (51-110 mg/dL) | SD | %CV | Level 3 Avg (111-150 mg/dL) | SD | %CV
+| 1 | 46.8 | 1.3 | 2.7 | 96.9 | 2.2 | 2.2 | 132.2 | 2.1 | 1.6
+| 2 | 44.8 | 1.2 | 2.7 | 92.9 | 2.1 | 2.2 | 131.3 | 2.1 | 1.6
+| 3 | 42.9 | 1.4 | 3.4 | 89.8 | 1.8 | 2.1 | 128.7 | 2.8 | 2.2
+|===
+
+.Within-Day Precision (continued)
+[cols="1,1,1,1,1,1,1", options="header"]
+|===
+| Lot | Level 4 Avg (151-250 mg/dL) | SD | %CV | Level 5 Avg (251-400 mg/dL) | SD | %CV
+| 1 | 208.8 | 4.6 | 2.2 | 285.5 | 5.6 | 2.0
+| 2 | 207.6 | 3.6 | 1.7 | 287.2 | 5.4 | 1.9
+| 3 | 202.6 | 3.4 | 1.7 | 283.8 | 6.8 | 2.4
+|===
+
+The sponsor also evaluated day-to-day precision using replicate
+measurements of glucose control solutions (low, normal, and high). Three
+different concentrations, using the same lot of control solutions, were
+tested on 10 meters, each in duplicate over 20 days with 3 strip lots.
+
+.Day-to-Day Precision
+[cols="1,1,1,1,1,1,1,1,1,1", options="header"]
+|===
+| Lot | Level 1 Avg (40-70 mg/dL) | SD | %CV | Level 2 Avg (83-125 mg/dL) | SD | %CV | Level 3 Avg (248-372 mg/dL) | SD | %CV
+| 1 | 53.7 | 1.4 | 2.5 | 101.0 | 2.0 | 2.0 | 298.6 | 7.2 | 2.4
+| 2 | 53.5 | 2.7 | 5.2 | 100.8 | 1.9 | 1.9 | 300.8 | 5.5 | 1.8
+| 3 | 54.4 | 1.2 | 2.2 | 101.3 | 2.1 | 2.1 | 297.7 | 7.2 | 2.4
+|===
+
+==== b. Linearity/assay reportable range
+
+The sponsor performed linearity studies using adjusted whole blood samples
+with 9 different glucose concentration ranges from 20 to 500 mg/dL.
+Duplicate measurements were made with each concentration on 6 meters and
+compared to results from the YSI 2300. Linear regression analysis
+resulted in: y = 0.97x + 10.7; r² = 0.996.
+
+The claimed reportable range of the device is 20 to 500 mg/dL.
+
+==== c. Traceability, Stability, Expected values
+
+The method comparison was performed using the proposed device and the YSI
+2300 glucose analyzer.
+
+Test strip stability was assessed in real-time and accelerated studies,
+supporting a claimed shelf life of 12 months when stored at 4-30°C with
+relative humidity of 5-90%.
+
+The FreeStyle Control Solutions, Levels 1, 2, and 3 were previously
+cleared in K070850.
+
+==== d. Detection limit
+
+The measuring range of the device is 20-500 mg/dL, validated via the
+linearity study above.
+
+==== e. Analytical specificity
+
+The sponsor performed interference studies with spiked venous blood
+samples at two glucose concentrations (100 and 300 mg/dL), prepared and
+divided into a test (dosed) pool and a control pool. Interferents were
+added and each sample analyzed in duplicate using 3 test strip lots on
+six meters. With the exception of xylose, all biases (control to dosed
+sample, and dosed sample to YSI) were within ±10%. For xylose, the
+highest level at which no significant interference occurs is 6 mg/dL; a
+warning statement is included in the test strip insert against use during
+xylose absorption testing.
+
+.Substances Tested With <10% Interference
+[cols="2,1", options="header"]
+|===
+| Substance | Concentration with <10% interference (mg/dL)
+| Acetaminophen | 20
+| Ascorbate | 5
+| β-hydroxybutyrate | 100
+| Bilirubin | 20
+| Cholesterol | 500
+| Creatinine | 30
+| Dopamine | 13
+| Ephedrine | 10
+| Galactose | 100
+| Ibuprofen | 50
+| Lactate | 100
+| Lactose | 100
+| L-dopa | 5
+| Maltose | 100
+| Methyl-dopa | 2.5
+| Pyruvate | 10
+| Salicylic acid | 50
+| Tetracycline | 4
+| Tolazamide | 100
+| Tolbutamide | 100
+| Triglyceride | 3000
+| Uric acid | 40
+| Xylose | 6
+|===
+
+==== e. Assay cut-off
+
+Not Applicable
+
+=== 2. Comparison studies
+
+==== a. Method comparison with predicate device
+
+The sponsor conducted a combined accuracy and consumer study across 3
+sites, with trained operators and a total of 179 lay-users. Each lay user
+performed their own fingerstick and tested blood on the FreeStyle Lite
+meter using only the instructions in the user's manual and test strip
+insert. A trained operator then performed a second fingerstick and tested
+the blood on the same meter. Blood was also measured on a YSI analyzer.
+The total sample range was 33-492 mg/dL, hematocrit range 27-58%. A total
+of 36 samples <50 mg/dL and >395 mg/dL were glycolyzed or spiked,
+respectively, and tested by trained operators only.
+
+.Linear Regression Results
+[cols="1,1,1,1", options="header"]
+|===
+| Group | Equation | r² | n
+| Trained operator | y = 0.94x + 0.3 | 1.00 | 215
+| Lay user | y = 0.96x - 1.6 | 0.99 | 179
+|===
+
+Study results met the ISO 15197 accuracy criteria: 95% of individual
+glucose results fell within ±15 mg/dL of the YSI results at glucose
+concentrations <75 mg/dL and within ±20% at glucose concentrations
+≥75 mg/dL.
+
+.Accuracy at Glucose Concentrations <75 mg/dL
+[cols="1,1,1,1", options="header"]
+|===
+| Group | Within ±5 mg/dL | Within ±10 mg/dL | Within ±15 mg/dL
+| Trained operator | 23/29 (79.3%) | 29/29 (100%) | 29/29 (100%)
+| Lay user | 8/11 (72.7%) | 11/11 (100%) | 11/11 (100%)
+|===
+
+.Accuracy at Glucose Concentrations ≥75 mg/dL
+[cols="1,1,1,1,1", options="header"]
+|===
+| Group | Within ±5% | Within ±10% | Within ±15% | Within ±20%
+| Trained operator | 126/186 (67.7%) | 172/186 (92.5%) | 185/186 (99.5%) | 186/186 (100%)
+| Lay user | 115/168 (68.5%) | 160/168 (95.2%) | 166/168 (98.8%) | 167/168 (99.4%)
+|===
+
+The sponsor also conducted alternative site studies on the palm and upper
+arm at 2 clinical sites with 151 lay users, each obtaining samples on
+either their palm or upper arm and testing on the FreeStyle Lite meter,
+followed by a trained operator obtaining palm and upper arm samples on the
+same meter, with venous blood also measured on a YSI analyzer.
+
+.Alternative Site Linear Regression Results
+[cols="1,1,1,1,1", options="header"]
+|===
+| Site | Group | Equation | r² | n
+| Palm | Trained operator | y = 1.03 + 4.6 | 0.994 | 74
+| Palm | Lay user | y = 1.03 + 4.5 | 0.990 | 74
+| Upper arm | Trained operator | y = 0.96 + 8.1 | 0.981 | 77
+| Upper arm | Lay user | y = 1.00 + 6.4 | 0.974 | 77
+|===
+
+Both palm and upper arm alternative site results met the same ISO 15197
+accuracy criteria.
+
+.Alternative Site Accuracy at Glucose Concentrations <75 mg/dL
+[cols="1,1,1,1,1", options="header"]
+|===
+| Site | Group | Within ±5 mg/dL | Within ±10 mg/dL | Within ±15 mg/dL
+| Palm | Trained operator | 1/5 (20%) | 4/5 (80%) | 5/5 (100%)
+| Palm | Lay user | 1/5 (20%) | 3/5 (60%) | 5/5 (100%)
+| Upper arm | Trained operator | 0/1 (0%) | 1/1 (100%) | 1/1 (100%)
+| Upper arm | Lay user | 0/1 (0%) | 1/1 (100%) | 1/1 (100%)
+|===
+
+.Alternative Site Accuracy at Glucose Concentrations ≥75 mg/dL
+[cols="1,1,1,1,1,1", options="header"]
+|===
+| Site | Group | Within ±5% | Within ±10% | Within ±15% | Within ±20%
+| Palm | Trained operator | 30/69 (43%) | 54/69 (78%) | 67/69 (97%) | 69/69 (100%)
+| Palm | Lay user | 32/69 (46%) | 54/69 (78%) | 65/69 (94%) | 67/69 (97%)
+| Upper arm | Trained operator | 39/76 (51%) | 68/76 (88%) | 73/76 (95%) | 75/76 (97%)
+| Upper arm | Lay user | 39/76 (51%) | 60/76 (79%) | 69/76 (91%) | 72/76 (95%)
+|===
+
+==== b. Matrix comparison
+
+Venous blood samples from 107 subjects (EDTA tubes) and 109 subjects
+(heparin tubes) were assayed 6 times each on the FreeStyle Lite meter and
+YSI using 3 strip lots. Glucose concentrations ranged 65-444 mg/dL,
+hematocrit range 25-51%.
+
+.Matrix Comparison Linear Regression Results
+[cols="1,1,1,1", options="header"]
+|===
+| Matrix | Equation | r² | n
+| EDTA | y = 0.92 + 9.8 | 0.99 | 642
+| Heparin | y = 0.93 + 9.1 | 0.99 | 654
+|===
+
+Study results met the same ISO 15197 accuracy criteria.
+
+.Matrix Comparison Accuracy at Glucose Concentrations <75 mg/dL
+[cols="1,1,1,1", options="header"]
+|===
+| Matrix | Within ±5 mg/dL | Within ±10 mg/dL | Within ±15 mg/dL
+| EDTA | 5/12 (41.7%) | 11/12 (91.7%) | 12/12 (100%)
+| Heparin | 8/11 (72.7%) | 11/11 (100%) | 11/11 (100%)
+|===
+
+.Matrix Comparison Accuracy at Glucose Concentrations ≥75 mg/dL
+[cols="1,1,1,1,1", options="header"]
+|===
+| Matrix | Within ±5% | Within ±10% | Within ±15% | Within ±20%
+| EDTA | 500/630 (79.4%) | 618/630 (98.1%) | 629/630 (99.8%) | 629/630 (99.8%)
+| Heparin | 523/642 (81.5%) | 623/642 (97.0%) | 635/642 (98.9%) | 639/642 (99.5%)
+|===
+
+=== 3. Clinical studies
+
+==== a. Clinical Sensitivity
+
+Not Applicable
+
+==== b. Clinical specificity
+
+Not Applicable
+
+==== c. Other clinical supportive data
+
+Not applicable.
+
+=== 4. Clinical cut-off
+
+Not Applicable
+
+=== 5. Expected values/Reference range
+
+Expected blood glucose levels for a non-diabetic, non-pregnant adult
+(referenced from the American Diabetes Association, Clinical Practice
+Recommendations; Diagnosis and classification of diabetes mellitus.
+Diabetes Care, 2005; 28 (Suppl. 1); S37-S42):
+
+[cols="1,1", options="header"]
+|===
+| Time | Range (mg/dL)
+| Fasting | less than 100
+| Two hours after meals | less than 140
+|===
+
+== N. Instrument Name
+
+FreeStyle Lite Blood Glucose Meter +
+FreeStyle Freedom Lite Blood Glucose Meter
+
+== O. System Descriptions
+
+=== 1. Modes of Operation
+
+Each test strip is single use and must be replaced with a new strip for
+additional readings.
+
+Data transmission to a computer, webserver, or mobile device: *No*. +
+Wireless transmission: *No*.
+
+=== 2. Software
+
+FDA has reviewed applicant's Hazard Analysis and software development
+processes for this line of product types: *Yes*. The applicant provided
+documentation that the device was designed and developed under good
+software life-cycle processes.
+
+=== 3. Specimen Identification
+
+There is no sample identification function with this device. Samples are
+applied directly to the test strip as they are collected.
+
+=== 4. Specimen Sampling and Handling
+
+This device is intended to be used with capillary and venous whole blood,
+which can be applied directly to the test strip.
+
+=== 5. Calibration
+
+No calibration is required by the user.
+
+=== 6. Quality Control
+
+The sponsor provides a normal control solution with the device. Two other
+levels (low and high) are available for purchase from the sponsor. An
+acceptable range for each control level is printed on the test strip vial
+label. The user is referred to the troubleshooting section of the
+owner's manual if control results fall outside these ranges.
+
+== P. Other Supportive Instrument Performance Characteristics Data
+
+**Hematocrit Study:** Evaluated the effect of hematocrit on samples with 5
+glucose concentrations (36-44, 81-99, 162-198, 253-297, 324-396, and
+400-500 mg/dL) at 7 hematocrit levels (15, 20, 25, 40, 55, 60, and 65%).
+Each glucose level/hematocrit combination was tested in duplicate on 6
+meters using 3 lots of test strips. All results met the acceptance
+criteria of ±15%, supporting the claimed hematocrit range of 15-65%.
+
+**Altitude study:** Performed at elevations up to 10,000 feet with 60
+tests each of 3 different glucose-spiked whole blood concentrations
+spanning 36 to 440 mg/dL. Sea level results were compared to results at
+higher elevations and to YSI values, with all results meeting the
+sponsor's acceptance criteria of ±10%.
+
+**Temperature and humidity studies:** Demonstrated the devices can be used
+at temperatures of 4 to 40°C and relative humidity of 5 to 90%, and stored
+at temperatures of 4 to 30°C with relative humidity of 5 to 90%.
+
+The sponsor provided a readability study and obtained Flesch-Kincaid grade
+level scores of 8 or lower for the User's Manual and test strip insert.
+
+== Q. Proposed Labeling
+
+The labeling is sufficient and satisfies the requirements of 21 CFR Part
+809.10.
+
+== R. Conclusion
+
+The submitted information in this premarket notification is complete and
+supports a substantial equivalence decision.
+
+'''
+
+[NOTE]
+====
+Source: FDA 510(k) Substantial Equivalence Determination Decision
+Summary, K092602, FreeStyle Lite / FreeStyle Freedom Lite Blood Glucose
+Monitoring Systems (Abbott Diabetes Care, Inc.). Retrieved 2026-09-14.
+This is a U.S. federal government regulatory record and is in the public
+domain; reproduced here in full for DeX record population per repository
+conventions.
+====

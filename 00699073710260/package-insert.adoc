@@ -1,0 +1,325 @@
+= FreeStyle Lite Blood Glucose Test Strips — Product Information / Package Insert
+:device-primary-di: 00699073710260
+:document-type: Package Insert
+:source-date: 2026-09-14
+:toc: left
+:toclevels: 2
+
+Art: 20783-102A, Rev. A 07/13, ©2009–2013 Abbott +
+Abbott Diabetes Care Inc., 1360 South Loop Road, Alameda, CA 94502 USA
+
+Only for use with FreeStyle, FreeStyle Freedom, FreeStyle Mini, FreeStyle
+Papillon Mini, FreeStyle Navigator, FreeStyle Navigator II, FreeStyle
+Freedom Lite, FreeStyle Lite and FreeStyle InsuLinx Blood Glucose
+Monitoring Systems to Test for Glucose in Whole Blood (Blood Glucose Test
+Strip with Coulometric Technology).
+
+IMPORTANT: PLEASE READ THIS INFORMATION AND YOUR OWNER'S BOOKLET BEFORE
+USING THE FreeStyle Lite TEST STRIPS TO TEST YOUR BLOOD SUGAR. For help
+call Customer Care.
+
+== Intended Use
+
+FreeStyle Lite blood glucose test strips are for use with FreeStyle,
+FreeStyle Freedom, FreeStyle Mini, FreeStyle Papillon Mini, FreeStyle
+Navigator, FreeStyle Navigator II, FreeStyle Freedom Lite, and FreeStyle
+Lite blood glucose meters and are intended for use in the quantitative
+measurement of glucose in capillary whole blood from the finger, hand,
+forearm, upper arm, calf and thigh and venous whole blood. The FreeStyle
+Lite blood glucose test strip is intended for use in the quantitative
+measurement of glucose in capillary whole blood from the finger, hand,
+forearm, upper arm and venous whole blood for the FreeStyle InsuLinx
+System. FreeStyle Lite test strips are used for testing outside the body
+(in vitro diagnostic use) and are for self-testing or care giver use.
+FreeStyle, FreeStyle Freedom, FreeStyle Mini, FreeStyle Papillon Mini,
+FreeStyle Navigator, FreeStyle Navigator II, FreeStyle Freedom Lite,
+FreeStyle Lite, and FreeStyle InsuLinx blood glucose monitoring systems
+are intended for use in the home and in professional settings. This
+product is not intended for the diagnosis of or screening for diabetes
+mellitus or for use with neonatal samples or arterial blood.
+
+== Warnings
+
+* Do not use during xylose absorption testing.
+* Any change in medication based on your blood glucose test results
+  without the consent and advice of a physician or healthcare
+  professional is not recommended.
+* Product contains small components that might be considered a choking
+  hazard.
+* The cap or vial contains drying agents to protect the test strips.
+  Drying agents may be harmful if inhaled or swallowed and may cause skin
+  or eye irritation.
+* If you get FreeStyle control solution test results that fall outside
+  the range printed on the test strip vial, repeat the test with a new
+  test strip. If the test result is still outside the range printed on
+  the test strip vial, the system may not be working properly. DO NOT use
+  the system to test your blood until you get a control solution test
+  result within the range printed on the test strip vial label.
+* Do not fill the test strip from both the left and right sample areas
+  during a single test. This may cause inaccurate test results.
+* Do not use test strips beyond the expiry date printed on the package
+  since this may cause inaccurate results.
+* Physiologic differences in the circulation between the finger and other
+  test sites like the forearm, upper arm, thigh, calf and hand, may
+  result in differences in blood glucose measurements between the other
+  test sites and your finger. Differences may be observed after eating,
+  insulin medication or exercise, and changes in blood glucose may be
+  observed in finger blood samples sooner than in samples from the
+  forearm and other alternate sites. Vigorous rubbing of the alternate
+  test sites before lancing will help to minimize the difference between
+  finger and alternate site test results. If you are testing for
+  hypoglycaemia (low blood glucose), or if you suffer from hypoglycaemia
+  unawareness, testing on the fingers is recommended.
+
+== Precautions
+
+* Ensure that the correct unit of measurement is displayed with each
+  result. See Owner's Booklet for further details.
+* Severe dehydration or excessive water loss may cause false low results.
+  If you believe you are suffering from severe dehydration, consult your
+  physician immediately.
+* All devices contaminated with blood should be disposed of properly.
+
+== Storage and Handling
+
+* Test strips must be discarded after the expiry date printed on the
+  vial.
+* After removing a test strip from the vial, replace the vial cap
+  immediately and close it tightly. Use each strip immediately after
+  removing it from the vial.
+* Store your test strips in their original vial only. The cap or vial
+  contains drying agents to protect the test strips. Do not transfer test
+  strips to a new vial or any other container.
+* Store at room temperature between 4°C to 30°C (40°F to 86°F). Use test
+  strips only within the system operating temperature range as outlined
+  in your Owner's Booklet.
+* Avoid exposing test strips to extreme temperatures.
+* Do not bend, cut, or alter a FreeStyle Lite test strip in any way.
+* With clean, dry hands you may gently touch the test strip anywhere when
+  removing it from the vial or inserting it into the meter.
+
+== Performing a Blood Glucose Test
+
+=== Test Method
+
+When the blood sample is applied to the test strip, the glucose in the
+blood reacts with the chemicals on the test strip, producing a small
+electrical current. The meter measures the current over time, calculates
+the electrical charge, and converts it to a glucose value.
+
+See your blood glucose meter Owner's Booklet for a step-by-step guide on
+how to do the test.
+
+=== 1. Set Up
+
+* Depending on your blood glucose monitoring system it can be used to
+  test on your finger, hand, forearm, upper arm, calf, and thigh.
+* Clean the site you have chosen for the test. Use warm, soapy water.
+  Rinse and thoroughly dry. To bring fresh blood to the surface, rub the
+  test site (except the finger) vigorously for a few seconds until you
+  feel it getting warm.
+* Put a strip in the meter. Most meters will turn on automatically. Power
+  on if required.
+* For meters that require coding, be sure that the code on the meter
+  display screen matches the code on the test strip vial. If it does not
+  match, see your Owner's Booklet for how to code the meter.
+
+=== 2. Do the Test
+
+* When the prompt to apply the sample appears on the screen, use your
+  lancing device to obtain a blood sample.
+* Gently touch one sample application area of the test strip to the
+  blood sample. If the strip does not fill, reapply the sample to the
+  same area within 60 seconds. Do not apply the sample to both edges of
+  the strip. Do not put the sample on top of the sample application area.
+* When the strip is full, the meter will "beep" or you will see the
+  moving lines on the display.
+
+=== 3. Read Results
+
+Read the test results on the meter display.
+
+== What Do Your Results Mean?
+
+* Normal fasting blood glucose range for an adult without diabetes is
+  less than 110 mg/dL (6.1 mmol/L).
+* Two hours after meals, the blood glucose range for an adult without
+  diabetes is less than 140 mg/dL (7.8 mmol/L).
+* Consult your healthcare professional to determine the range that is
+  appropriate for you.
+* Low or high blood glucose readings can indicate a potentially serious
+  medical condition. If your blood glucose reading is unusually low or
+  high, or if you do not feel the way your reading indicates, repeat the
+  test with a new test strip. If your reading is not consistent with your
+  symptoms or if your blood glucose result is less than 60 mg/dL
+  (3.3 mmol/L) or higher than 240 mg/dL (13.3 mmol/L) you should contact
+  your healthcare professional and follow his or her treatment advice.
+
+== Limitations
+
+The FreeStyle Lite blood glucose test strips give accurate results when
+the following limitations are observed:
+
+. The test strips are for single use only. Do not reuse test strips.
+. Use fresh, whole capillary blood from the site you have selected to
+  test.
+. Clean the site with warm soapy water and dry thoroughly before testing.
+. There is no effect from altitude up to 3,048 meters (10,000 feet) above
+  sea level.
+. Haematocrit range: 15% to 65%.
+
+=== Additional Information for Healthcare Professionals
+
+. A venous whole blood sample may also be used. Use venous blood within
+  30 minutes after drawing. Common anticoagulants (heparin, EDTA) may be
+  used.
+. Cholesterol up to 500 mg/dL (13 mmol/L) or triglycerides up to
+  3,000 mg/dL (34 mmol/L) do not significantly affect test results.
+  However, glucose values in specimens beyond these levels should be
+  interpreted with caution.
+. In situations of decreased peripheral blood flow, capillary blood
+  testing may not be appropriate as it may not represent the true
+  physiological state — examples include but are not limited to severe
+  dehydration caused by diabetic ketoacidosis or the hyperosmolar
+  non-ketotic state, hypotension, shock, or peripheral vascular disease.
+  Critically ill patients should not be tested with home use blood
+  glucose meters.
+
+== Checking the System
+
+The control solution is used to check the performance of the meters, test
+strips, and your testing technique. The system is performing correctly if
+the control solution test result falls within the specific control
+solution range listed on your FreeStyle Lite test strip vial.
+
+When a control solution test is done, you should get results within the
+expected range printed on the test strip vial. If control solution test
+results fall outside this range, repeat the test. Results that fall
+outside the range may be caused by:
+
+* error in performing the test
+* expired or contaminated control solution
+* improper coding of the meter
+* test strip deterioration
+* meter malfunction
+
+NOTE: A control solution test should be performed when you question your
+results and want to confirm that your meter and test strips are working
+properly. To obtain control solution, call Customer Care.
+
+WARNING: If you continue to get control solution test results that fall
+outside the range printed on the test strip vial, the system may not be
+functioning properly. DO NOT use the system to test your blood until you
+get a control solution test result within the range printed on the test
+strip vial label. Contact Customer Care.
+
+== Performance Characteristics
+
+The performance of these test strips has been tested both in laboratory
+and clinical studies. The testing range is 20 mg/dL to 500 mg/dL
+(1.1 mmol/L to 27.8 mmol/L). The FreeStyle Lite test strip is calibrated
+to display the equivalent of plasma glucose values to allow easy
+comparison of results with laboratory methods.
+
+=== Accuracy
+
+Capillary blood glucose results obtained by lay users were compared with
+those obtained using the YSI Glucose Analyzer.
+
+.System Accuracy — Finger Samples, YSI Glucose Results <75 mg/dL (4.2 mmol/L)
+[cols="1,1,1", options="header"]
+|===
+| Within ±5 mg/dL (0.3 mmol/L) | Within ±10 mg/dL (0.6 mmol/L) | Within ±15 mg/dL (0.8 mmol/L)
+| 73% (8/11) | 100% (11/11) | 100% (11/11)
+|===
+
+.System Accuracy — Finger Samples, YSI Glucose Results ≥75 mg/dL (4.2 mmol/L)
+[cols="1,1,1,1", options="header"]
+|===
+| Within ±5% | Within ±10% | Within ±15% | Within ±20%
+| 68% (115/168) | 95% (160/168) | 99% (166/168) | 99% (167/168)
+|===
+
+Regression statistics derived from a plot of the lay user finger data
+versus YSI capillary data:
+
+[cols="1,1,1", options="header"]
+|===
+| Statistic | Value (mg/dL) | Value (mmol/L)
+| Slope | 0.95 | 0.95
+| y-intercept | 7.3 mg/dL | 0.41 mmol/L
+| Correlation coefficient (R) | 0.99 | 0.99
+| Number of samples tested | 179 | 179
+| Range tested | 38-375 mg/dL | 2.1-20.8 mmol/L
+|===
+
+=== Precision
+
+Within-lot and within-vial precision of these test strips was measured
+with venous blood samples in the laboratory.
+
+.Within-Lot Precision
+[cols="1,1,1,1,1,1", options="header"]
+|===
+| | 43.3 mg/dL (2.4) | 94.2 mg/dL (5.2) | 140.7 mg/dL (7.8) | 238.3 mg/dL (13.2) | 345.0 mg/dL (19.2)
+| SD mg/dL (mmol/L) | 1.5 (0.1) | 2.3 (0.1) | 2.9 (0.2) | 4.8 (0.3) | 6.8 (0.4)
+| CV % | 3.3 | 2.4 | 2.2 | 2.3 | 2.4
+|===
+
+.Within-Vial Precision
+[cols="1,1,1,1,1,1", options="header"]
+|===
+| | 43.3 mg/dL (2.4) | 94.2 mg/dL (5.2) | 140.7 mg/dL (7.8) | 238.3 mg/dL (13.2) | 345.0 mg/dL (19.2)
+| SD mg/dL (mmol/L) | 1.3 (0.1) | 2.0 (0.1) | 2.4 (0.1) | 3.9 (0.2) | 6.0 (0.3)
+| CV % | 2.9 | 2.2 | 1.8 | 1.9 | 2.1
+|===
+
+Variability in blood tests from strip to strip was 3.3% or less.
+
+=== Chemical Composition
+
+[cols="2,1", options="header"]
+|===
+| Ingredient | Minimum Quantity
+| FAD Glucose Dehydrogenase (Aspergillus Oryzae) | ≥ 1.0 Unit
+| Other ingredients (buffer, mediator, etc.) | ≥ 0.01 mg
+|===
+
+== References
+
+. Definition and diagnosis of diabetes mellitus and intermediate
+  hyperglycemia: report of a WHO/IDF consultation. World Health
+  Organization, Geneva, Switzerland 2006.
+. Atkins SH, Dasmahapatra A, Jaker MA, Chorost MI, Reddy S: Fingerstick
+  glucose determination in shock. Ann Int Med 114: 1020-1024. 1991.
+. Sandler M, Low-Beer T: Misleading capillary glucose measurements.
+  Practical Diabetes 7: 210. 1990.
+. Wickham NWR, Achar KN, Cove DH: Unreliability of capillary blood
+  glucose in peripheral vascular disease. Practical Diabetes 3: 100.
+  1986.
+
+== Manufacturer / Distribution
+
+Abbott Diabetes Care Inc. +
+1360 South Loop Road, Alameda, CA 94502 USA
+
+Distributed by: Abbott Diabetes Care, 666 Doncaster Road, Doncaster 3108,
+Victoria, Australia. ABN 95000 180 389.
+
+Abbott Diabetes Care Ltd., Range Road, Witney, Oxon OX29 0YL, UK.
+
+FreeStyle and related brand marks are trademarks of Abbott Diabetes Care
+Inc. in various jurisdictions. Other trademarks are the property of their
+respective owners.
+
+[NOTE]
+====
+Source: Abbott Diabetes Care "FreeStyle Lite Blood Glucose Test Strips"
+product information / package insert, Art. 20783-102A, Rev. A 07/13
+(https://freestyleserver.com/Payloads/IFU/FS2/ART20783-102_rev-A-Web.pdf).
+Retrieved 2026-09-14. This is manufacturer-published product labeling,
+reproduced here for internal DeX record population; not a U.S. federal
+government work. The original document's patent list and "Description of
+Symbols" glossary (standard IVD pictograms) are omitted here as
+non-substantive to DeX record population.
+====

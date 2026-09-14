@@ -1,0 +1,67 @@
+= FreeStyle Lite Blood Glucose Test Strips — GUDID Device Record
+:device-primary-di: 00699073710260
+:document-type: GUDID
+:source-date: 2026-09-14
+:toc: left
+
+== Device Identifier (DI) Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Brand Name | FreeStyle Lite
+| Catalog Number | 71026
+| Commercial Distribution Status | In Commercial Distribution
+| Company Name | ABBOTT DIABETES CARE INC
+| Primary DI Number | 00699073710260
+| Issuing Agency | GS1
+| Device Description | A collection of devices including a portable, electrically-powered, semi-automated or automated instrument (self-testing meter), reagents, test strips and/or other associated materials and accessories (e.g., control solutions, lancets) intended to be used together for the quantitative measurement of multiple clinical chemistry analytes in a clinical specimen. It is intended to be used for self-testing by a layperson in the home, and some types may in addition be used at the point-of-care.
+|===
+
+== Device Characteristics
+
+[cols="2,1", options="header"]
+|===
+| Characteristic | Value
+| Storage Environment Temperature | 40.00 to 86.00 Degrees Fahrenheit
+| Device Sizes | No Data Available
+| Device Sterile | False
+| Sterilization Prior To Use | False
+|===
+
+== FDA Product Codes
+
+[cols="1,3,1,1", options="header"]
+|===
+| Product Code | Device Name | Device Class | Regulation Number
+| NBW | System, Test, Blood Glucose, Over The Counter | 2 | 862.1345
+| LFR | Glucose Dehydrogenase, Glucose | 2 | 862.1345
+|===
+
+== FDA Premarket Submission
+
+[cols="1,1", options="header"]
+|===
+| FDA Premarket Submission Number | Notes
+| K092602 | New device clearance — GDH-FAD test strip chemistry for FreeStyle Lite / FreeStyle Freedom Lite systems
+|===
+
+== Alternative and Additional Identifiers
+
+[cols="1,2,1", options="header"]
+|===
+| Device Type | Device ID | Issuing Agency
+| Primary | 00699073710260 | GS1
+| Package (Case, qty 12) | 30699073710261 | GS1
+| Secondary (NDC/NHRIC) | 99073-0710-26 | NDC/NHRIC
+| Unit of Use | 10699073710267 | GS1
+|===
+
+[NOTE]
+====
+Source: AccessGUDID device record for Primary DI 00699073710260 (Abbott
+Diabetes Care Inc., FreeStyle Lite Blood Glucose Test Strips), a U.S.
+federal government (NLM/FDA) database entry. Retrieved 2026-09-14 via a
+mirror (physiciansofficeresource.com) of the AccessGUDID record; the
+canonical record lives at accessgudid.nlm.nih.gov/devices/00699073710260.
+====
