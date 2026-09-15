@@ -1,0 +1,80 @@
+= INNOVANCE D-Dimer — GUDID Device Record
+:device-primary-di: 00630414640501
+:document-type: GUDID
+:source-date: 2026-09-15
+:toc: left
+
+[IMPORTANT]
+====
+This record was **not built from a directly-fetched AccessGUDID page** —
+that specific lookup did not resolve via available search tools despite
+repeated attempts. It is built from:
+
+1. The device name and company confirmed directly by the user
+   ("INNOVANCE D-Dimer" / Siemens Healthcare Diagnostics Products GmbH).
+2. Corroborating GUDID records for sibling devices in the same product
+   line, all sharing company, brand prefix, product code, and K-number
+   (`INNOVANCE D-Dimer Sample Diluent`, DI `00630414639666`;
+   `INNOVANCE D-Dimer Controls`, DI `00630414640181`).
+
+**Caution:** a numerically adjacent DI (`00630414640204`) turned out to
+be an unrelated Siemens assay ("INNOVANCE Anti-Xa," K240315) — so DI
+proximity alone is not reliable evidence in this range. The confidence
+here rests on the confirmed name/company match to K081732's own
+proprietary name, not on numeric adjacency.
+
+Fields below marked "inferred" should be verified against the actual
+GUDID record before treating this file as final.
+====
+
+== Device Identifier (DI) Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Brand Name | INNOVANCE D-Dimer
+| Company Name | Siemens Healthcare Diagnostics Products GmbH
+| Primary DI Number | 00630414640501
+| Issuing Agency | GS1 (inferred — consistent with entire sibling family)
+| Device Description | For the quantitative determination of cross-linked fibrin degradation products (D-dimers) in human plasma on Siemens/Sysmex Coagulation Systems (per K081732 and current Siemens Healthineers product description)
+|===
+
+== FDA Product Code
+
+[cols="1,3", options="header"]
+|===
+| Product Code | Product Code Name
+| DAP | Fibrinogen and Fibrin Split Products, Antigen, Antiserum, Control
+|===
+
+Regulation: 21 CFR 864.7320, Class II, Panel: Hematology (81) — per
+K081732.
+
+== FDA Premarket Submission
+
+[cols="1,1", options="header"]
+|===
+| FDA Premarket Submission Number | Supplement Number
+| K081732 | 000 (inferred — see confidence note above)
+|===
+
+== Storage and Handling (inferred from product family)
+
+[cols="1,2", options="header"]
+|===
+| Condition | Value
+| Storage Environment Temperature | between 2 and 8 Degrees Celsius (consistent across every confirmed sibling DI in this family)
+|===
+
+[NOTE]
+====
+Source: device name and company confirmed by the user directly from
+their own GUDID access. K-number, product code, and regulatory
+classification corroborated via FDA's K081732 decision summary
+(https://www.accessdata.fda.gov/cdrh_docs/reviews/K081732.pdf, a U.S.
+federal public-domain record) and sibling AccessGUDID device records for
+the same product line. This DI's own AccessGUDID page
+(accessgudid.nlm.nih.gov/devices/00630414640501) was not independently
+retrieved — recommend confirming catalog/version number and exact GMDN
+term code against that record directly.
+====

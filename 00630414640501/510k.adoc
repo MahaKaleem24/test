@@ -1,0 +1,311 @@
+= INNOVANCE D-Dimer / INNOVANCE D-Dimer Controls — 510(k) Substantial Equivalence Determination Decision Summary
+:device-primary-di: 00630414640501
+:document-type: 510k
+:source-date: 2026-09-15
+:toc: left
+:toclevels: 2
+:sectnums:
+
+Template: Assay Only
+
+== A. 510(k) Number
+
+K081732
+
+== B. Purpose for Submission
+
+Clearance of a new assay
+
+== C. Measurand
+
+D-Dimer
+
+== D. Type of Test
+
+Quantitative Turbidometry
+
+== E. Applicant
+
+Siemens Healthcare Diagnostics
+
+== F. Proprietary and Established Names
+
+INNOVANCE D-Dimer +
+INNOVANCE D-dimer Controls
+
+== G. Regulatory Information
+
+[cols="1,1,1,1", options="header"]
+|===
+| Product Code | Classification | Regulation Section | Panel
+| DAP | Class II | 21 CFR 864.7320 | 81 Hematology
+|===
+
+== H. Intended Use
+
+=== 1. Intended use(s)
+
+**INNOVANCE D-Dimer**: For the quantitative determination of
+cross-linked fibrin degradation products (D-dimers) in human plasma on
+the Dade Behring and Sysmex Coagulation Systems. The INNOVANCE D-Dimer
+assay is intended for use as an aid in the diagnosis of venous
+thromboembolism (VTE) [deep vein thrombosis (DVT) or pulmonary embolism
+(PE)].
+
+**INNOVANCE D-Dimer Controls**: INNOVANCE D-dimer Control 1 and
+INNOVANCE D-Dimer Control 2 are assayed, normal and pathological level,
+intralaboratory quality controls for assessment of precision and
+analytical bias in the quantitative determination of D-dimer on the Dade
+Behring and Sysmex Coagulation Systems.
+
+=== 2. Indication(s) for use
+
+The Indications for Use for the INNOVANCE D-Dimer and INNOVANCE D-Dimer
+Controls are as stated above.
+
+=== 3. Special conditions for use statement(s)
+
+Prescription use.
+
+=== 4. Special instrument requirements
+
+INNOVANCE D-Dimer and INNOVANCE D-Dimer Controls are for use on the Dade
+Behring Coagulation Systems — K970431 — and its family member BCS® XP.
+
+== I. Device Description
+
+**INNOVANCE D-Dimer:**
+
+* INNOVANCE D-Dimer Reagent — lyophilized mouse monoclonal antibodies to D-dimer (3 or 6 vials, 4.0 mL per vial)
+* INNOVANCE D-Dimer Buffer — liquid saline buffer (3 or 6 vials, 5.0 mL per vial)
+* INNOVANCE D-Dimer Supplement — liquid saline buffer with heterophilic blocking reagent (3 or 6 vials, 2.6 mL per vial)
+* INNOVANCE D-Dimer Diluent — liquid saline buffer to dilute samples (3 or 6 vials, 5.0 mL per vial)
+* INNOVANCE D-Dimer Calibrator — lyophilized, single analyte, human plasma based product containing D-dimer preparation (2 vials, 1.0 mL per vial)
+* Empty Vials — 3 vials per INNOVANCE D-Dimer Reagent, Buffer, Supplement, and Diluent
+
+Polystyrene particles covalently coated with a monoclonal antibody (8D3)
+are aggregated when mixed with samples containing D-dimer. The D-dimer
+cross-linkage region has a stereosymmetrical structure — i.e., the
+epitope for the monoclonal antibody occurs twice — so one antibody
+suffices to trigger an aggregation reaction, which is then detected
+turbidimetrically via the increase in turbidity.
+
+**INNOVANCE D-Dimer Controls:**
+
+Content: 5 vials each level, two levels, 1 mL per vial. INNOVANCE
+D-Dimer Controls 1 and 2 are lyophilized, single analyte, human
+plasma-based products containing D-dimer.
+
+== J. Substantial Equivalence Information
+
+=== Predicate 1: Stratus CS DDMR TestPak, CALPak, and DILPak — K063356
+
+.Similarities
+Both are in vitro diagnostic tests for the quantitative measurement of
+D-dimer in human plasma, as an aid in the diagnosis of venous
+thromboembolism (VTE) [DVT or PE]. The antibody for both assays is
+monoclonal from mice.
+
+.Differences
+[cols="1,2", options="header"]
+|===
+| Item | Description
+| Proposed Device Technology | Immunochemical reactions measured using turbidimetric technology
+| Predicate Device Technology | The enzymatic rate of the bound fraction increases directly with the concentration of D-dimer in the sample; reaction rate measured by an optical system monitoring front surface fluorescence, with all data analysis performed by the analyzer's microprocessor
+| Proposed Device Instrument | BCS®/BCS® XP System
+| Predicate Device Instrument | Stratus® CS Analyzer
+|===
+
+=== Predicate 2: Advanced D-Dimer Control Plasma 1 and 2 — K992957
+
+.Similarities
+Both are assayed, normal and pathological level, intralaboratory quality
+controls for assessment of precision and analytical bias in the
+quantitative determination of D-dimer. Constituents: D-dimer.
+Traceability: in-house reference standard. Levels: two.
+
+.Differences
+[cols="1,2", options="header"]
+|===
+| Item | Description
+| Form (Proposed Device) | Lyophilized
+| Form (Predicate Device) | Liquid
+| Use (Proposed Device) | For use with the INNOVANCE D-Dimer assay
+| Use (Predicate Device) | For use with the Advanced D-Dimer assay
+|===
+
+== K. Standard/Guidance Document Referenced
+
+* CLSI EP7-A2: Interference testing in Clinical Chemistry; Approved Guideline
+* CLSI EP5-A2: Evaluation of Precision Performance of Quantitative Measurement Methods; Approved Guideline
+* CLSI EP9-A2: Method Comparison and Bias Estimation Using Patient Samples; Approved Guideline
+* CLSI EP6-P2: Evaluation of the Linearity of Quantitative Analytical Methods: A Statistical Approach
+* NCCLS/CLSI EP17-A: Protocols for Determination of Limits of Detection and Limits of Quantitation
+* FDA Guidance for Industry and FDA Staff — Assayed and Unassayed Quality Control Material
+
+== L. Test Principle
+
+Polystyrene particles covalently coated with a monoclonal antibody (8D3)
+are aggregated when mixed with samples containing D-dimer. The D-dimer
+cross-linkage region has a stereosymmetrical structure, i.e., the
+epitope for the monoclonal antibody occurs twice. Consequently, one
+antibody suffices in order to trigger an aggregation reaction, which is
+then detected turbidimetrically via the increase in turbidity.
+
+== M. Performance Characteristics
+
+=== 1. Analytical performance
+
+==== a. Precision/Reproducibility
+
+Precision testing was conducted following CLSI EP5-A2. Testing was
+performed over 20 days, two separate runs with two test samples for each
+test material. One operator, one reagent, and one instrument were used.
+
+[cols="1,1", options="header"]
+|===
+| Statistic | Value
+| n | 80
+| Mean | 0.279 mg/L
+| Median | 0.280 mg/L
+| Repeatability | 4.1% (SD: 0.011)
+| Within-day CV | 4.1% (SD: 0.011)
+| Between-day CV | 1.2% (SD: 0.003)
+| Within-device/lab CV | 4.3% (SD: 0.012)
+|===
+
+==== b. Linearity/assay reportable range
+
+The linearity study covered a range of 0.12 to 4.46 mg/L FEU. Linearity
+testing was performed using a citrated plasma sample spiked with D-Dimer
+at a concentration of 4.46 mg/L FEU, diluted with INNOVANCE D-Dimer
+Diluent. The linear range was determined according to CLSI EP06-A.
+Based on the results of this testing and the Limit of Blank/Limit of
+Detection study, the measuring range was established.
+
+==== c. Traceability, Stability, Expected values
+
+The calibrator is traceable to an internal reference standard. A new
+calibration is required for each new lot of INNOVANCE D-Dimer, after
+major maintenance or service, as indicated by quality control results or
+laboratory procedures, or when required by government regulations.
+
+INNOVANCE D-Dimer Controls 1 and 2 are single-analyte, lyophilized,
+human plasma-based products containing D-dimer, traceable to an in-house
+reference standard, and must be tested at least every eight hours on
+each testing day and for each vial of reagent to ensure the system is
+functioning correctly.
+
+.Stability Protocol — INNOVANCE D-Dimer Calibrator and Controls 1 and 2
+[cols="1,2", options="header"]
+|===
+| Study | Details
+| Closed Vial | Study duration 25 months; 3 vials, 5 replicates per vial; stored at +2 to +8°C throughout, tested at day 0 and 3, 6, 12, 18, 24, and 25 months; acceptance criteria 80–120% of assigned value
+| Stability after reconstitution (Calibrator) | 1 vial, 2 replicates per vial; tested at 0, 2, 4, 6 hours at +15 to +25°C; acceptance criteria 80–120% of assigned value
+| Stability after reconstitution (Controls) | Tested at 0, 4, 6, 8, 10 hours at +15 to +25°C; 0, 3, 5, 7, 10, 14, 15 days at +2 to +8°C; 0, 2, 3, 4, 5 weeks at ≤18°C; acceptance criteria 80–120% of assigned value
+| Onboard Stability — Calibrators | BCS/BCS XP System: 0, 1, 2, 4, 6, 8 hours; acceptance criteria 90–110% of initial value
+| Onboard Stability — Controls | BCS/BCS XP System: 0, 4, 6, 8, 8.5, 9 hours; acceptance criteria 90–110% of initial value (Control 1), 85–115% of initial value (Control 2)
+|===
+
+==== d. Detection limit
+
+The Limit of Blank (LoB) and Limit of Detection (LoD) for INNOVANCE
+D-Dimer were determined to be 0.02 mg/L and 0.05 mg/L, respectively,
+following CLSI EP17-A. Four blank samples, four low-analyte citrated
+plasma samples spiked with D-dimer (diluted with INNOVANCE D-Dimer
+Diluent), and two reagent lots were tested over 4 days.
+
+==== e. Analytical specificity
+
+Interference testing was performed according to CLSI EP7-A2. Test
+samples were prepared by spiking the potential interferent into plasma.
+D-Dimer concentrations ranged from 0.45 to 0.55 mg/L, except for
+hemoglobin, bilirubin, and triglycerides, where concentrations ranged
+0.28–0.29 mg/L and 2.32–2.43 mg/L.
+
+For exogenous interferents, hemoglobin, bilirubin, and triglycerides,
+percent bias was determined by comparing a control sample without the
+interferent to a test sample with the interferent added. For
+cholesterol, the endogenous concentration of the base pool was
+determined and additional cholesterol spiked to the test concentration,
+with percent bias determined against a normal control sample. For
+creatine, albumin, fibrinogen, immunoglobulin G, urea, and uric acid, the
+endogenous concentrations were not determined; test concentration was
+spiked directly into the test pool.
+
+Rheumatoid factor interference was evaluated using samples with RF
+concentrations of 3640 IU/mL and samples with no detectable RF,
+prepared in different mixtures (1+1, 1+3, 3+1) and tested in replicates
+of five. Recovery of the D-dimer value ranged from 92% to 101%.
+
+=== 2. Comparison studies
+
+==== a. Method comparison with predicate device
+
+2 clinical sites, 318 samples. Passing-Bablok regression yielded a
+slope of 0.951, an intercept of 0.059 mg/L FEU, and an r of 0.97.
+
+=== 3. Clinical studies
+
+Frozen samples were collected from 902 out-patients presenting to the
+emergency room with clinically suspected venous thromboembolism (VTE).
+Patients were evaluated using the Wells' pre-test probability (PTP)
+model to estimate the probability of DVT or PE, and diagnosed as
+DVT/PE-positive by standard objective tests as appropriate. Patients
+initially diagnosed as negative were followed for four months. Samples
+were collected from 2 clinical sites, frozen, and tested at 2 additional
+sites. Of 902 patients, 533 were female and 369 male, ages 18–95.
+
+.Clinical Study — VTE Frequency and Assay Performance
+[cols="1,1,1,1,1,1", options="header"]
+|===
+| Instrument | VTE Patients | Cutoff (mg/L) | Sensitivity (%) | Specificity (%) | NPV (%)
+| BCS® Systems | 902 | 0.5 | 97 | 42 | 98
+|===
+
+Overall frequency of VTE in this study population: 22.0%.
+
+=== 4. Clinical cut-off
+
+In a prospective single-center study, plasma specimens from 359
+out-patients suspected of VTE were tested with the INNOVANCE D-Dimer
+assay using a cutoff of 0.5 mg/L FEU. PE was ruled out or confirmed by
+spiral CT and a 3-month follow-up; DVT was ruled out or confirmed by
+compression ultrasonography and a 3-month follow-up. 89 of the 359
+patients received a positive VTE diagnosis (24% VTE frequency in this
+cohort).
+
+.INNOVANCE D-Dimer Derivation Study Summary
+[cols="1,1,1,1,1,1", options="header"]
+|===
+| Instrument | VTE Patients | Cutoff (mg/L FEU) | Sensitivity (%) | Specificity (%) | NPV (%)
+| BCS® System | 359 | 0.5 | 98 | 38 | (not reported)
+|===
+
+== N. Proposed Labeling
+
+The labeling is sufficient and it satisfies the requirements of 21 CFR
+Part 809.10.
+
+== O. Conclusion
+
+The submitted information in this premarket notification is complete
+and supports a substantial equivalence decision.
+
+'''
+
+[NOTE]
+====
+Source: FDA 510(k) Substantial Equivalence Determination Decision
+Summary, K081732, INNOVANCE D-Dimer / INNOVANCE D-dimer Controls
+(Siemens Healthcare Diagnostics), retrieved 2026-09-15
+(https://www.accessdata.fda.gov/cdrh_docs/reviews/K081732.pdf). This is
+a U.S. federal government regulatory record and is in the public domain;
+reproduced here in full for DeX record population per repository
+conventions.
+
+Note the confidence caveat in `gudid.adoc`: this DI's own AccessGUDID
+record was not directly retrieved, so the K-number association here
+rests on the device name/company match confirmed by the user plus
+corroborating sibling records, not a direct fetch of this specific DI.
+====
