@@ -1,0 +1,200 @@
+= FreeStyle InsuLinx Blood Glucose Monitoring System — 510(k) Records
+:device-primary-di: 00093815711438
+:document-type: 510k
+:source-date: 2026-09-15
+:toc: left
+:toclevels: 2
+:sectnums:
+
+NOTE: This device has two relevant 510(k) records rather than one. GUDID
+lists **K152328** as the current premarket submission number for this DI —
+that filing only covers a packaging change (adding a lancing device) and
+carries forward all performance data unchanged from the original
+clearance, **K120568**. Both are reproduced below since neither is
+complete on its own: K152328 has the current administrative record, and
+K120568 has the actual analytical performance data.
+
+== Part 1 — K152328 (Special 510(k), 2015): Current GUDID Submission
+
+=== A. 510(k) Number
+
+K152328
+
+=== B. Applicant
+
+Abbott Diabetes Care Inc.
+
+=== C. Proprietary Name
+
+FreeStyle InsuLinx Blood Glucose Monitoring System
+
+=== D. Regulatory Information
+
+* Regulation Number: 21 CFR 862.1345, Glucose test system
+* Regulatory Class: II
+* Product Codes: NBW, LFR
+
+=== E. Indications for Use
+
+The FreeStyle InsuLinx Blood Glucose Monitoring System is intended for
+the quantitative measurement of glucose in fresh capillary whole blood
+samples drawn from the fingertip. The FreeStyle InsuLinx Blood Glucose
+Monitoring System is intended to be used by a single person and should
+not be shared.
+
+The FreeStyle InsuLinx Blood Glucose Monitoring System is intended for
+self-testing outside the body (in vitro diagnostic use) by people with
+diabetes at home as an aid to monitor the effectiveness of diabetes
+control. The FreeStyle InsuLinx Blood Glucose Monitoring System should
+not be used for the diagnosis of or screening for diabetes or for
+neonatal use.
+
+The FreeStyle InsuLinx Blood Glucose Test Strips are for use with the
+FreeStyle InsuLinx Blood Glucose Meter to quantitatively measure glucose
+in capillary whole blood samples drawn from the fingertip.
+
+=== F. Description of the Device
+
+The FreeStyle InsuLinx Meter, in conjunction with the FreeStyle InsuLinx
+Test Strips, works on the principle of coulometric biosensor technology,
+measuring glucose by its reaction with Glucose Dehydrogenase (GDH) in
+blood samples or control solutions, through electrochemical mediation.
+
+The device automatically logs blood glucose results to create a
+customized logbook. The FreeStyle InsuLinx System has a large touch
+screen and a user interface designed for an easy user experience. Users
+can pre-program audible and visual reminders for blood glucose testing,
+or other individual needs.
+
+The FreeStyle InsuLinx System has "plug and play" software that
+automatically installs on a computer without the need for a CD or
+internet access (via the meter's USB port and a provided cable). It also
+provides access to structured reports for both healthcare professionals
+and patients.
+
+=== G. Principles of Operation
+
+The FreeStyle InsuLinx Meter (in conjunction with FreeStyle InsuLinx
+blood glucose test strips) utilizes coulometric biosensor technology to
+quantitatively measure the glucose concentration in whole blood samples
+and in FreeStyle Control Solutions.
+
+The FreeStyle InsuLinx Meter measures glucose electrochemically. The
+glucose biosensor recognizes the glucose present in whole blood or
+control solutions by virtue of the glucose specificity of the enzyme
+glucose dehydrogenase (GDH) present on the glucose test strip. The
+electrons liberated by this reaction are transferred via a co-factor and
+mediator to the meter where they are read as a small electrical current.
+The current is integrated over the analysis time to generate charge,
+which is directly proportional to the level of glucose in the applied
+sample.
+
+The FreeStyle InsuLinx Meter does not require calibration prior to use
+with the FreeStyle InsuLinx Test Strips. The device is prepared for use
+by inserting a FreeStyle InsuLinx test strip in the test strip port.
+Upon strip insertion, the meter turns on automatically and performs a
+display check. The "apply blood" message is displayed for the user to
+apply blood to the test strip until the meter begins the test. Blood
+detect occurs when the meter detects trigger current from the test
+strip, once enough blood has covered the strip electrodes. Following
+blood detect, the meter performs the glucose assay measurement.
+
+=== H. Description of Modification
+
+The basis for this submission is to include the FreeStyle Lancing
+Device II into the FreeStyle InsuLinx System kit, which may be packaged
+with the following components and accessories:
+
+. FreeStyle InsuLinx Meter
+. 10-count vial of FreeStyle InsuLinx Test Strips (may be sold separately)
+. FreeStyle Auto-Assist software (resides in the FreeStyle InsuLinx Meter)
+. Carrying Case
+. Owner's Booklet
+. Quick Start Guide
+. USB Cable
+. FreeStyle Control Solutions (may be obtained by contacting Customer Service)
+
+=== I. Substantial Equivalence
+
+The FreeStyle InsuLinx Blood Glucose Monitoring System is substantially
+equivalent to the predicate, cleared by the Agency on March 29, 2012,
+under **K120568**: FreeStyle InsuLinx Blood Glucose Monitoring System.
+
+=== J. Comparison with Predicate (K120568)
+
+.Similarities
+[cols="1,2", options="header"]
+|===
+| Characteristic | Value (Same for both predicate and modified device)
+| Indications for Use | Quantitative measurement of glucose in fresh capillary whole blood from the fingertip; single-person use only; self-testing at home; not for diagnosis/screening or neonatal use
+| Classification Product Code | NBW, LFR
+| Fundamental Technology | Coulometric biosensor technology
+| Enzyme | GDH-FAD
+| Sample Type | Whole blood & capillary
+| Test Site | Finger
+| Sample Volume | 0.3 µL
+| Measurement Glucose Range | 20 to 500 mg/dL
+| Meter Operating Humidity | 5 to 90% Relative Humidity, Non-Condensing
+| Storage Operating Temperature | -4°F to 140°F (-20°C to +60°C)
+| Precision | Below 75 mg/dL: average SD ≤ 5 mg/dL; ≥75 mg/dL: average CV ≤ 5%
+| Accuracy | 95% of results within ±15 mg/dL (< 75 mg/dL) or ±20% (≥75 mg/dL) of comparative method
+| Measurement Module | FreeStyle Super Speedy Algorithm (5 seconds)
+| Double Application | 60 seconds
+| Meter Operating Temperature | 40°F to 104°F (4°C to 40°C)
+| Meter Operating Pressure | Up to 10,000 feet (3,048 meters)
+| Hematocrit | 15%–65%
+| Data Management | FreeStyle Auto-Assist software
+| Measurement Time | Average 5 seconds
+| Coding | No coding required
+| Microprocessor | ST
+| User Preferences | Time/date, audible alert, personalized test screen, weekly message glucose ranges, personalized notes and reminders
+| Summary Statistic Elements | Snapshot Report, Modal Day Report, Logbook Report, Daily Statistics Report, Meal Event Averages Report, Meter Settings Report, Weekly messages
+| Communications | "Plug and Play" device set-up screen enabling configuration through the PC
+| Lancets | FreeStyle/Thin Lancets
+|===
+
+.Differences
+[cols="1,2,2", options="header"]
+|===
+| Characteristic | Predicate (K120568) | Modified Device (K152328)
+| Meter cleaning/disinfection | 522 cycles each (equiv. weekly over 5-year service life) with Dispatch Hospital Cleaner Disinfectant Towels with Bleach, EPA 56392-8 | 522 cycles each (2/week for 5 years) with Clorox Healthcare Bleach Germicidal Wipes, EPA Reg. #67619-12
+| Lancing device cleaning/disinfection | 522 cycles each (equiv. weekly over 5-year service life), same disinfectant as above | 210 cycles each (2/week for 2 years), Clorox Healthcare Bleach Germicidal Wipes, EPA Reg. #67619-12
+| Lancing device | FreeStyle Lancing Device | FreeStyle Lancing Device-II
+|===
+
+=== K. Conclusion
+
+FDA determined the device substantially equivalent to the predicate
+device (K120568) for the indications for use stated, and cleared it for
+marketing subject to general controls.
+
+'''
+
+== Part 2 — K120568 (Original Clearance, cleared March 29, 2012)
+
+NOTE: K120568's own decision summary document did not surface through
+available search tools (2012-era filings are not always as reliably
+indexed as more recent ones) — this section is left as a placeholder
+rather than fabricated. The K152328 summary above (Part 1) already
+reproduces K120568's full technical comparison table (indications for
+use, sample type/volume, measurement range, precision, accuracy,
+operating conditions, etc.) as carried-forward "Same" values, which
+covers the substantive performance data; what's missing here is
+K120568's own predicate chain and any original method-comparison study
+narrative not repeated in the K152328 filing. Fetch K120568 directly
+from `accessdata.fda.gov/cdrh_docs/pdf12/K120568.pdf` (unconfirmed path —
+2012 filings sometimes live under `pdf11` or `pdf12` depending on
+submission date) to complete this section.
+
+'''
+
+[NOTE]
+====
+Source: FDA 510(k) Special Premarket Notification Summary, K152328,
+FreeStyle InsuLinx Blood Glucose Monitoring System (Abbott Diabetes Care
+Inc.), retrieved 2026-09-15
+(https://www.accessdata.fda.gov/cdrh_docs/pdf15/K152328.pdf). This is a
+U.S. federal government regulatory record and is in the public domain;
+reproduced here in full for DeX record population per repository
+conventions. K120568 full text to be added on a subsequent pass.
+====

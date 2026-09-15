@@ -1,0 +1,31 @@
+= FreeStyle InsuLinx Blood Glucose Monitoring System — Package Insert Decision
+:device-primary-di: 00093815711438
+:document-type: Package Insert (deferred)
+:source-date: 2026-09-15
+
+No `package-insert.adoc` was created for this DI. Reasoning:
+
+This DI (catalog 71143) is the **system kit** — meter + accessories +
+Owner's Booklet + Quick Start Guide — not a standalone reagent/test-strip
+catalog number. The test strips have their own separate DI
+(`00699073712301`, "FreeStyle InsuLinx Blood Glucose Test Strips"), and
+*that* DI is where a true, reproducible reagent package insert would
+attach (the strip insert is in fact the same document already used for
+the FreeStyle Lite DI elsewhere in this repo:
+`freestyleserver.com/Payloads/IFU/FS2/ART20783-102_rev-A-Web.pdf`, since
+Abbott ships one combined insert covering multiple compatible meters).
+
+What ships with *this* kit DI instead is the **Owner's Booklet / meter
+user manual** — a full instrument manual (the located copy,
+`FreeStyle-Insulinx-User-Manual.pdf`, runs to dozens of pages covering
+meter setup, menus, and troubleshooting). Per this repository's pipeline
+convention, full instrument/system manuals are linked rather than
+reproduced.
+
+* Owner's Booklet / User Manual (link only, not reproduced):
+  https://diabeticoutlet.com/wp-content/uploads/2015/08/FreeStyle-Insulinx-User-Manual.pdf
+  (third-party mirror; not confirmed as Abbott's current canonical hosting)
+
+If a `package-insert.adoc` is wanted for this folder, the better source
+is the test-strip insert under DI `00699073712301`, mirrored here rather
+than duplicated, once that DI's own folder exists.

@@ -1,0 +1,81 @@
+= FreeStyle InsuLinx Blood Glucose Monitoring System — GUDID Device Record
+:device-primary-di: 00093815711438
+:document-type: GUDID
+:source-date: 2026-09-15
+:toc: left
+
+== Device Identifier (DI) Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Brand Name | FreeStyle InsuLinx
+| Catalog Number | 71143
+| Commercial Distribution Status | Not in Commercial Distribution
+| Company Name | ABBOTT DIABETES CARE INC
+| Primary DI Number | 00093815711438
+| Issuing Agency | GS1
+| Device Description | FreeStyle InsuLinx Blood Glucose Monitoring System — a collection of devices including a portable, electrically-powered, semi-automated or automated instrument (self-testing meter), reagents, test strips and/or other associated materials and accessories (e.g., control solutions, lancets) intended to be used together for the quantitative measurement of multiple clinical chemistry analytes in a clinical specimen. Intended for self-testing by a layperson in the home.
+|===
+
+== Device Characteristics
+
+[cols="2,1", options="header"]
+|===
+| Characteristic | Value
+| Storage Environment Temperature | -4 to 140 Degrees Fahrenheit
+| Device Sizes | No Data Available
+| Device Sterile | False
+|===
+
+== GMDN
+
+[cols="1,2,3,1,1", options="header"]
+|===
+| GMDN Term Code | GMDN Term Name | GMDN Term Definition | GMDN Term Status | Implantable?
+| 62643 | Multiple clinical chemistry analyte monitoring system IVD, home-use | A collection of devices including a portable, electrically-powered, semi-automated or automated instrument (self-testing meter), reagents, test strips and/or other associated materials and accessories (e.g., control solutions, lancets) intended to be used together for the quantitative measurement of multiple clinical chemistry analytes in a clinical specimen. Analytes detected may include electrolytes, specific proteins, clinical chemistry substrates (e.g., lipid profile), liver and/or cardiac function test analytes, and/or enzymes. It is intended to be used for self-testing by a layperson in the home, and some types may in addition be used at the point-of-care. | Active | false
+|===
+
+== FDA Product Codes
+
+[cols="1,3", options="header"]
+|===
+| Product Code | Product Code Name
+| NBW | System, Test, Blood Glucose, Over The Counter
+| LFR | Glucose Dehydrogenase, Glucose
+|===
+
+== FDA Premarket Submission
+
+[cols="1,1", options="header"]
+|===
+| FDA Premarket Submission Number | Supplement Number
+| K152328 | 000
+|===
+
+NOTE: This is the Special 510(k) that added the FreeStyle Lancing Device II
+into this system kit's packaging. The full analytical performance data
+(precision, accuracy, method comparison, etc.) for the underlying meter/test
+strip technology was established in the original clearance, **K120568**
+(cleared March 29, 2012), which K152328 references as its predicate and
+carries forward unchanged ("Same" for every performance characteristic
+row). See `510k.adoc` for both.
+
+== Alternative and Additional Identifiers
+
+[cols="1,2,1", options="header"]
+|===
+| Device Type | Device ID | Issuing Agency
+| Primary | 00093815711438 | GS1
+| Package (Case, qty 4) | 30093815711439 | GS1 — Not in Commercial Distribution, discontinued 5/2/2020
+| Secondary (NDC/NHRIC) | 99073-0711-43 | NDC/NHRIC
+|===
+
+[NOTE]
+====
+Source: AccessGUDID device record for Primary DI 00093815711438 (Abbott
+Diabetes Care Inc., FreeStyle InsuLinx Blood Glucose Monitoring System), a
+U.S. federal government (NLM/FDA) database entry. Retrieved 2026-09-15.
+GMDN terms are reproduced under license from the GMDN Agency per
+AccessGUDID's terms of use.
+====
