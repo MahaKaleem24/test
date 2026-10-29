@@ -3,4 +3,4 @@
 == Controls
 
 * 20816101029048 — LIAISON NES® FLU A/B, RSV & COVID-19 Control Swab Kit
-  (`../../multiple-genus-respiratory-virus-nucleic-acid-ivd-control/20816101029048/`)
+  xref:../../multiple-genus-respiratory-virus-nucleic-acid-ivd-control/20816101029048/linked-devices.adoc[Linked Devices]

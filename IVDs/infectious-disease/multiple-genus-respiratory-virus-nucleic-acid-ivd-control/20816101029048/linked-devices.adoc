@@ -3,4 +3,4 @@
 == Approved IVDs / Assays
 
 * 20816101029031 — LIAISON NES® FLU A/B, RSV & COVID-19
-  (`../../multiple-genus-respiratory-virus-nucleic-acid-ivd-kit-nucleic-acid-technique-nat/20816101029031/`)
+  xref:../../multiple-genus-respiratory-virus-nucleic-acid-ivd-kit-nucleic-acid-technique-nat/20816101029031/linked-devices.adoc[Linked Devices]
